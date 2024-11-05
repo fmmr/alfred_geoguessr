@@ -4,6 +4,13 @@ ObjC.import("stdlib")
 
 const environment = $.NSProcessInfo.processInfo.environment.js;
 const MODE = 'MODE' in environment ? environment.MODE.js : undefined;
+// var browser = $.getenv('MODE')
+
+console.log("Mode: " + MODE);
+
+// ObjC.import("Foundation");
+// const args = $.NSProcessInfo.processInfo.arguments;
+// console.log("0: " + args.js[0].js);
 
 
 let FLAG_DIR = "flags/png1000px/";
