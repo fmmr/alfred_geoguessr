@@ -1,0 +1,1787 @@
+[
+    {
+        "country": "Andorra",
+        "code": "ad",
+        "tld": "ad",
+        "capital": "Andorra la Vella",
+        "search": "andorra andorra la vella ad blue red yellow symbol"
+    },
+    {
+        "country": "United Arab Emirates",
+        "code": "ae",
+        "tld": "ae",
+        "capital": "Abu Dhabi",
+        "search": "united arab emirates de forente arabiske emirater abu dhabi uae ae red black green white"
+    },
+    {
+        "country": "Afghanistan",
+        "code": "af",
+        "tld": "af",
+        "capital": "Kabul",
+        "search": "afghanistan kabul af black green red white symbol"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "code": "ag",
+        "tld": "ag",
+        "capital": "St. John's",
+        "search": "antigua and barbuda antigua og barbuda st. john's ag red black blue white yellow symbol"
+    },
+    {
+        "country": "Anguilla",
+        "code": "ai",
+        "tld": "ai",
+        "capital": "The Valley",
+        "search": "anguilla the valley ai blue white unionjack symbol"
+    },
+    {
+        "country": "Albania",
+        "code": "al",
+        "tld": "al",
+        "capital": "Tirana",
+        "search": "albania tirana al red black symbol"
+    },
+    {
+        "country": "Armenia",
+        "code": "am",
+        "tld": "am",
+        "capital": "Yerevan",
+        "search": "armenia yerevan am red blue orange"
+    },
+    {
+        "country": "Angola",
+        "code": "ao",
+        "tld": "ao",
+        "capital": "Luanda",
+        "search": "angola luanda ao red black yellow symbol star"
+    },
+    {
+        "country": "Antarctica",
+        "code": "aq",
+        "tld": "aq",
+        "capital": null,
+        "search": "antarctica antarktis aq dark blue white symbol"
+    },
+    {
+        "country": "Argentina",
+        "code": "ar",
+        "tld": "ar",
+        "capital": "Buenos Aires",
+        "search": "argentina buenos aires ar light blue white symbol"
+    },
+    {
+        "country": "American Samoa",
+        "code": "as",
+        "tld": "as",
+        "capital": "Pago Pago",
+        "search": "american samoa amerikansk samoa pago pago as blue red white symbol"
+    },
+    {
+        "country": "Austria",
+        "code": "at",
+        "tld": "at",
+        "capital": "Vienna",
+        "search": "austria østerrike vienna at red white"
+    },
+    {
+        "country": "Australia",
+        "code": "au",
+        "tld": "au",
+        "capital": "Canberra",
+        "search": "australia canberra au blue red white unionjack symbol star"
+    },
+    {
+        "country": "Aruba",
+        "code": "aw",
+        "tld": "aw",
+        "capital": "Oranjestad",
+        "search": "aruba oranjestad aw blue red yellow star"
+    },
+    {
+        "country": "Åland Islands",
+        "code": "ax",
+        "tld": "ax",
+        "capital": null,
+        "search": "åland islands åland ax blue gold red"
+    },
+    {
+        "country": "Azerbaijan",
+        "code": "az",
+        "tld": "az",
+        "capital": "Baku",
+        "search": "azerbaijan aserbajdsjan baku az light blue green red symbol"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "code": "ba",
+        "tld": "ba",
+        "capital": "Sarajevo",
+        "search": "bosnia and herzegovina bosnia-hercegovina sarajevo ba blue white yellow star"
+    },
+    {
+        "country": "Barbados",
+        "code": "bb",
+        "tld": "bb",
+        "capital": "Bridgetown",
+        "search": "barbados bridgetown bb blue black gold symbol"
+    },
+    {
+        "country": "Bangladesh",
+        "code": "bd",
+        "tld": "bd",
+        "capital": "Dhaka",
+        "search": "bangladesh dhaka bd red green"
+    },
+    {
+        "country": "Belgium",
+        "code": "be",
+        "tld": "be",
+        "capital": "Brussels",
+        "search": "belgium belgia brussels be black red yellow"
+    },
+    {
+        "country": "Burkina Faso",
+        "code": "bf",
+        "tld": "bf",
+        "capital": "Ouagadougou",
+        "search": "burkina faso ouagadougou bf red green yellow star"
+    },
+    {
+        "country": "Bulgaria",
+        "code": "bg",
+        "tld": "bg",
+        "capital": "Sofia",
+        "search": "bulgaria sofia bg white green red"
+    },
+    {
+        "country": "Bahrain",
+        "code": "bh",
+        "tld": "bh",
+        "capital": "Manama",
+        "search": "bahrain manama bh red white"
+    },
+    {
+        "country": "Burundi",
+        "code": "bi",
+        "tld": "bi",
+        "capital": "Bujumbura",
+        "search": "burundi bujumbura bi red green white star"
+    },
+    {
+        "country": "Benin",
+        "code": "bj",
+        "tld": "bj",
+        "capital": "Porto-Novo",
+        "search": "benin porto-novo bj green red yellow"
+    },
+    {
+        "country": "Saint Barthélemy",
+        "code": "bl",
+        "tld": "bl",
+        "capital": "Gustavia",
+        "search": "saint barthélemy gustavia saint barth’s saint barts bl dark blue white red"
+    },
+    {
+        "country": "Bermuda",
+        "code": "bm",
+        "tld": "bm",
+        "capital": "Hamilton",
+        "search": "bermuda hamilton bm red unionjack symbol"
+    },
+    {
+        "country": "Brunei",
+        "code": "bn",
+        "tld": "bn",
+        "capital": "Bandar Seri Begawan",
+        "search": "brunei bandar seri begawan bn yellow black white symbol"
+    },
+    {
+        "country": "Bolivia",
+        "code": "bo",
+        "tld": "bo",
+        "capital": "Sucre",
+        "search": "bolivia sucre bo red green yellow symbol"
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "code": "bq",
+        "tld": null,
+        "capital": null,
+        "search": "caribbean netherlands karibiske nederland bq red white blue"
+    },
+    {
+        "country": "Brazil",
+        "code": "br",
+        "tld": "br",
+        "capital": "Brasília",
+        "search": "brazil brasil brasília br green blue gold symbol"
+    },
+    {
+        "country": "Bahamas",
+        "code": "bs",
+        "tld": "bs",
+        "capital": "Nassau",
+        "search": "bahamas nassau bs black aquamarine blue yellow"
+    },
+    {
+        "country": "Bhutan",
+        "code": "bt",
+        "tld": "bt",
+        "capital": "Thimphu",
+        "search": "bhutan thimphu bt fulvous gold white symbol"
+    },
+    {
+        "country": "Bouvet Island",
+        "code": "bv",
+        "tld": "bv",
+        "capital": null,
+        "search": "bouvet island bouvetøya bv blue red white"
+    },
+    {
+        "country": "Botswana",
+        "code": "bw",
+        "tld": "bw",
+        "capital": "Gaborone",
+        "search": "botswana gaborone bw light blue black white"
+    },
+    {
+        "country": "Belarus",
+        "code": "by",
+        "tld": "by",
+        "capital": "Minsk",
+        "search": "belarus hviterussland minsk by red green white"
+    },
+    {
+        "country": "Belize",
+        "code": "bz",
+        "tld": "bz",
+        "capital": "Belmopan",
+        "search": "belize belmopan bz blue red white symbol"
+    },
+    {
+        "country": "Canada",
+        "code": "ca",
+        "tld": "ca",
+        "capital": "Ottawa",
+        "search": "canada ottawa ca red white"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "code": "cc",
+        "tld": "cc",
+        "capital": "West Island",
+        "search": "cocos (keeling) islands kokosøyene (keeling). west island cc green yellow star"
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "code": "cd",
+        "tld": "cd",
+        "capital": "Kinshasa",
+        "search": "democratic republic of the congo den demokratiske republikken kongo kinshasa cd blue red yellow star"
+    },
+    {
+        "country": "Central African Republic",
+        "code": "cf",
+        "tld": "cf",
+        "capital": "Bangui",
+        "search": "central african republic den sentralafrikanske republikk bangui cf blue green red white yellow star"
+    },
+    {
+        "country": "Republic of the Congo",
+        "code": "cg",
+        "tld": "cg",
+        "capital": "Brazzaville",
+        "search": "republic of the congo republikken kongo brazzaville cg green red yellow"
+    },
+    {
+        "country": "Switzerland",
+        "code": "ch",
+        "tld": "ch",
+        "capital": "Bern",
+        "search": "switzerland sveits bern ch red white"
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "code": "ci",
+        "tld": "ci",
+        "capital": "Yamoussoukro",
+        "search": "côte d'ivoire elfenbenskysten yamoussoukro ivory coast ci orange green white"
+    },
+    {
+        "country": "Cook Islands",
+        "code": "ck",
+        "tld": "ck",
+        "capital": "Avarua",
+        "search": "cook islands cookøyene avarua ck blue red white unionjack star"
+    },
+    {
+        "country": "Chile",
+        "code": "cl",
+        "tld": "cl",
+        "capital": "Santiago",
+        "search": "chile santiago cl red blue white star"
+    },
+    {
+        "country": "Cameroon",
+        "code": "cm",
+        "tld": "cm",
+        "capital": "Yaoundé",
+        "search": "cameroon kamerun yaoundé cm red green yellow star"
+    },
+    {
+        "country": "China",
+        "code": "cn",
+        "tld": "cn",
+        "capital": "Beijing",
+        "search": "china kina beijing kina cn red gold star"
+    },
+    {
+        "country": "Colombia",
+        "code": "co",
+        "tld": "co",
+        "capital": "Bogotá",
+        "search": "colombia bogotá co yellow blue red"
+    },
+    {
+        "country": "Costa Rica",
+        "code": "cr",
+        "tld": "cr",
+        "capital": "San José",
+        "search": "costa rica san josé cr blue red white symbol"
+    },
+    {
+        "country": "Cuba",
+        "code": "cu",
+        "tld": "cu",
+        "capital": "Havana",
+        "search": "cuba havana cu blue red white star"
+    },
+    {
+        "country": "Cape Verde",
+        "code": "cv",
+        "tld": "cv",
+        "capital": "Praia",
+        "search": "cape verde kapp verde praia cabo verde cv blue white red yellow star"
+    },
+    {
+        "country": "Curaçao",
+        "code": "cw",
+        "tld": "cw",
+        "capital": "Willemstad",
+        "search": "curaçao willemstad cw blue white yellow star"
+    },
+    {
+        "country": "Christmas Island",
+        "code": "cx",
+        "tld": "cx",
+        "capital": "Flying Fish Cove",
+        "search": "christmas island juleøya flying fish cove cx green blue yellow white star"
+    },
+    {
+        "country": "Cyprus",
+        "code": "cy",
+        "tld": "cy",
+        "capital": "Nicosia",
+        "search": "cyprus kypros nicosia cy blue white symbol"
+    },
+    {
+        "country": "Czechia",
+        "code": "cz",
+        "tld": "cz",
+        "capital": "Prague",
+        "search": "czechia tsjekkia prague czech republic tjekkia cz blue red white"
+    },
+    {
+        "country": "Germany",
+        "code": "de",
+        "tld": "de",
+        "capital": "Berlin",
+        "search": "germany tyskland berlin tyskland de black gold red"
+    },
+    {
+        "country": "Djibouti",
+        "code": "dj",
+        "tld": "dj",
+        "capital": "Djibouti",
+        "search": "djibouti djibouti dj light blue green red white star"
+    },
+    {
+        "country": "Denmark",
+        "code": "dk",
+        "tld": "dk",
+        "capital": "Copenhagen",
+        "search": "denmark danmark copenhagen dk red white"
+    },
+    {
+        "country": "Dominica",
+        "code": "dm",
+        "tld": "dm",
+        "capital": "Roseau",
+        "search": "dominica roseau dm green black red white yellow symbol"
+    },
+    {
+        "country": "Dominican Republic",
+        "code": "do",
+        "tld": "do",
+        "capital": "Santo Domingo",
+        "search": "dominican republic den dominikanske republikk santo domingo do blue red white symbol"
+    },
+    {
+        "country": "Algeria",
+        "code": "dz",
+        "tld": "dz",
+        "capital": "Algiers",
+        "search": "algeria algerie algiers dz green red white star"
+    },
+    {
+        "country": "Ecuador",
+        "code": "ec",
+        "tld": "ec",
+        "capital": "Quito",
+        "search": "ecuador quito ec yellow blue red symbol"
+    },
+    {
+        "country": "Estonia",
+        "code": "ee",
+        "tld": "ee",
+        "capital": "Tallinn",
+        "search": "estonia estland tallinn ee blue black white"
+    },
+    {
+        "country": "Egypt",
+        "code": "eg",
+        "tld": "eg",
+        "capital": "Cairo",
+        "search": "egypt cairo eg black gold red white symbol"
+    },
+    {
+        "country": "Western Sahara",
+        "code": "eh",
+        "tld": "eh",
+        "capital": "El Aaiún",
+        "search": "western sahara vest-sahara el aaiún eh red black white green symbol"
+    },
+    {
+        "country": "Eritrea",
+        "code": "er",
+        "tld": "er",
+        "capital": "Asmara",
+        "search": "eritrea asmara er green blue red yellow symbol"
+    },
+    {
+        "country": "Spain",
+        "code": "es",
+        "tld": "es",
+        "capital": "Madrid",
+        "search": "spain spania madrid es red gold symbol"
+    },
+    {
+        "country": "Ethiopia",
+        "code": "et",
+        "tld": "et",
+        "capital": "Addis Ababa",
+        "search": "ethiopia etiopia addis ababa et green blue red yellow star"
+    },
+    {
+        "country": "European Union",
+        "code": "eu",
+        "tld": "eu",
+        "capital": null,
+        "search": "european union den europeiske union eu blue yellow star"
+    },
+    {
+        "country": "Finland",
+        "code": "fi",
+        "tld": "fi",
+        "capital": "Helsinki",
+        "search": "finland helsinki fi white blue"
+    },
+    {
+        "country": "Fiji",
+        "code": "fj",
+        "tld": "fj",
+        "capital": "Suva",
+        "search": "fiji suva fj dark blue gold light blue red white unionjack symbol"
+    },
+    {
+        "country": "Falkland Islands",
+        "code": "fk",
+        "tld": "fk",
+        "capital": "Stanley",
+        "search": "falkland islands falklandsøyene stanley malvinas fk blue light blue unionjack symbol"
+    },
+    {
+        "country": "Micronesia",
+        "code": "fm",
+        "tld": "fm",
+        "capital": "Palikir",
+        "search": "micronesia mikronesia palikir fm blue white star"
+    },
+    {
+        "country": "Faroe Islands",
+        "code": "fo",
+        "tld": "fo",
+        "capital": "Tórshavn",
+        "search": "faroe islands færøyene tórshavn færøyene fo white blue red"
+    },
+    {
+        "country": "France",
+        "code": "fr",
+        "tld": "fr",
+        "capital": "Paris",
+        "search": "france frankrike paris frankrike fr blue red white"
+    },
+    {
+        "country": "Gabon",
+        "code": "ga",
+        "tld": "ga",
+        "capital": "Libreville",
+        "search": "gabon libreville ga green blue yellow"
+    },
+    {
+        "country": "England",
+        "code": "gb-eng",
+        "tld": "uk",
+        "capital": "London",
+        "search": "england london united kingdom great britain gb-eng uk white red"
+    },
+    {
+        "country": "Northern Ireland",
+        "code": "gb-nir",
+        "tld": "uk",
+        "capital": "Belfast",
+        "search": "northern ireland nord-irland belfast united kingdom great britain gb-nir uk blue red white unionjack"
+    },
+    {
+        "country": "Scotland",
+        "code": "gb-sct",
+        "tld": "uk",
+        "capital": "Edinburgh",
+        "search": "scotland skottland edinburgh united kingdom great britain gb-sct uk blue white"
+    },
+    {
+        "country": "Wales",
+        "code": "gb-wls",
+        "tld": "uk",
+        "capital": "Cardiff",
+        "search": "wales cardiff united kingdom great britain gb-wls uk green white red symbol"
+    },
+    {
+        "country": "United Kingdom",
+        "code": "gb",
+        "tld": "uk",
+        "capital": "London",
+        "search": "united kingdom storbritannia london great britain gb uk red blue white unionjack"
+    },
+    {
+        "country": "Grenada",
+        "code": "gd",
+        "tld": "gd",
+        "capital": "St. George's",
+        "search": "grenada st. george's gd green red yellow star"
+    },
+    {
+        "country": "Georgia",
+        "code": "ge",
+        "tld": "ge",
+        "capital": "Tbilisi",
+        "search": "georgia tbilisi ge red white"
+    },
+    {
+        "country": "French Guiana",
+        "code": "gf",
+        "tld": "gf",
+        "capital": "Cayenne",
+        "search": "french guiana fransk guyana cayenne gf blue white red"
+    },
+    {
+        "country": "Guernsey",
+        "code": "gg",
+        "tld": "gg",
+        "capital": "St. Peter Port",
+        "search": "guernsey st. peter port gg white red yellow"
+    },
+    {
+        "country": "Ghana",
+        "code": "gh",
+        "tld": "gh",
+        "capital": "Accra",
+        "search": "ghana accra gh red black green yellow star"
+    },
+    {
+        "country": "Gibraltar",
+        "code": "gi",
+        "tld": "gi",
+        "capital": "Gibraltar",
+        "search": "gibraltar gibraltar gi red black white symbol"
+    },
+    {
+        "country": "Greenland",
+        "code": "gl",
+        "tld": "gl",
+        "capital": "Nuuk",
+        "search": "greenland grønland nuuk gl white red"
+    },
+    {
+        "country": "Gambia",
+        "code": "gm",
+        "tld": "gm",
+        "capital": "Banjul",
+        "search": "gambia banjul gm red blue green white"
+    },
+    {
+        "country": "Guinea",
+        "code": "gn",
+        "tld": "gn",
+        "capital": "Conakry",
+        "search": "guinea conakry gn red green yellow"
+    },
+    {
+        "country": "Guadeloupe",
+        "code": "gp",
+        "tld": "gp",
+        "capital": "Basse-Terre",
+        "search": "guadeloupe basse-terre gp blue white red"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "code": "gq",
+        "tld": "gq",
+        "capital": "Malabo",
+        "search": "equatorial guinea ekvatorial-guinea malabo gq green blue red white symbol"
+    },
+    {
+        "country": "Greece",
+        "code": "gr",
+        "tld": "gr",
+        "capital": "Athens",
+        "search": "greece hellas athens gr blue white"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "code": "gs",
+        "tld": "gs",
+        "capital": "Grytviken",
+        "search": "south georgia and the south sandwich islands sør-georgia og sør-sandwichøyene grytviken gs blue red white unionjack symbol"
+    },
+    {
+        "country": "Guatemala",
+        "code": "gt",
+        "tld": "gt",
+        "capital": "Guatemala City",
+        "search": "guatemala guatemala city gt blue white symbol"
+    },
+    {
+        "country": "Guam",
+        "code": "gu",
+        "tld": "gu",
+        "capital": "Hagåtña",
+        "search": "guam hagåtña gu blue symbol"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "code": "gw",
+        "tld": "gw",
+        "capital": "Bissau",
+        "search": "guinea-bissau bissau gw red black green yellow star"
+    },
+    {
+        "country": "Guyana",
+        "code": "gy",
+        "tld": "gy",
+        "capital": "Georgetown",
+        "search": "guyana georgetown gy black green red white yellow"
+    },
+    {
+        "country": "Hong Kong",
+        "code": "hk",
+        "tld": "hk",
+        "capital": null,
+        "search": "hong kong hk red symbol"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "code": "hm",
+        "tld": "hm",
+        "capital": null,
+        "search": "heard island and mcdonald islands heard island og mcdonald islands hm blue white red unionjack star"
+    },
+    {
+        "country": "Honduras",
+        "code": "hn",
+        "tld": "hn",
+        "capital": "Tegucigalpa",
+        "search": "honduras tegucigalpa hn blue white star"
+    },
+    {
+        "country": "Croatia",
+        "code": "hr",
+        "tld": "hr",
+        "capital": "Zagreb",
+        "search": "croatia kroatia zagreb hr red blue white symbol"
+    },
+    {
+        "country": "Haiti",
+        "code": "ht",
+        "tld": "ht",
+        "capital": "Port-au-Prince",
+        "search": "haiti port-au-prince ht blue red symbol"
+    },
+    {
+        "country": "Hungary",
+        "code": "hu",
+        "tld": "hu",
+        "capital": "Budapest",
+        "search": "hungary ungarn budapest hu red green white"
+    },
+    {
+        "country": "Indonesia",
+        "code": "id",
+        "tld": "id",
+        "capital": "Jakarta",
+        "search": "indonesia jakarta id red white"
+    },
+    {
+        "country": "Ireland",
+        "code": "ie",
+        "tld": "ie",
+        "capital": "Dublin",
+        "search": "ireland irland dublin ie green or blue"
+    },
+    {
+        "country": "Israel",
+        "code": "il",
+        "tld": "il",
+        "capital": "Jerusalem",
+        "search": "israel jerusalem il blue white star"
+    },
+    {
+        "country": "Isle of Man",
+        "code": "im",
+        "tld": "im",
+        "capital": "Douglas",
+        "search": "isle of man douglas im red white symbol"
+    },
+    {
+        "country": "India",
+        "code": "in",
+        "tld": "in",
+        "capital": "New Delhi",
+        "search": "india new delhi in blue green saffron orange white symbol"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "code": "io",
+        "tld": "io",
+        "capital": null,
+        "search": "british indian ocean territory britisk territorium i det indiske hav io blue white red unionjack symbol"
+    },
+    {
+        "country": "Iraq",
+        "code": "iq",
+        "tld": "iq",
+        "capital": "Baghdad",
+        "search": "iraq irak baghdad iq red black green white symbol"
+    },
+    {
+        "country": "Iran",
+        "code": "ir",
+        "tld": "ir",
+        "capital": "Tehran",
+        "search": "iran tehran ir green red white symbol"
+    },
+    {
+        "country": "Iceland",
+        "code": "is",
+        "tld": "is",
+        "capital": "Reykjavík",
+        "search": "iceland island reykjavík is blue red white"
+    },
+    {
+        "country": "Italy",
+        "code": "it",
+        "tld": "it",
+        "capital": "Rome",
+        "search": "italy italia rome it green red white"
+    },
+    {
+        "country": "Jersey",
+        "code": "je",
+        "tld": "je",
+        "capital": "St. Helier",
+        "search": "jersey st. helier je white red yellow symbol"
+    },
+    {
+        "country": "Jamaica",
+        "code": "jm",
+        "tld": "jm",
+        "capital": "Kingston",
+        "search": "jamaica kingston jm green black gold"
+    },
+    {
+        "country": "Jordan",
+        "code": "jo",
+        "tld": "jo",
+        "capital": "Amman",
+        "search": "jordan amman jo black green red white star"
+    },
+    {
+        "country": "Japan",
+        "code": "jp",
+        "tld": "jp",
+        "capital": "Tokyo",
+        "search": "japan tokyo jp red white"
+    },
+    {
+        "country": "Kenya",
+        "code": "ke",
+        "tld": "ke",
+        "capital": "Nairobi",
+        "search": "kenya nairobi ke black green red white symbol"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "code": "kg",
+        "tld": "kg",
+        "capital": "Bishkek",
+        "search": "kyrgyzstan kirgisistan bishkek kg red yellow symbol"
+    },
+    {
+        "country": "Cambodia",
+        "code": "kh",
+        "tld": "kh",
+        "capital": "Phnom Penh",
+        "search": "cambodia kambodsja phnom penh kh red blue white symbol"
+    },
+    {
+        "country": "Kiribati",
+        "code": "ki",
+        "tld": "ki",
+        "capital": "Tarawa",
+        "search": "kiribati tarawa ki red blue gold white symbol"
+    },
+    {
+        "country": "Comoros",
+        "code": "km",
+        "tld": "km",
+        "capital": "Moroni",
+        "search": "comoros komorene moroni km yellow blue green red white star"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "code": "kn",
+        "tld": "kn",
+        "capital": "Basseterre",
+        "search": "saint kitts and nevis saint kitts og nevis basseterre kn green red white star"
+    },
+    {
+        "country": "North Korea",
+        "code": "kp",
+        "tld": "kp",
+        "capital": "Pyongyang",
+        "search": "north korea nord-korea pyongyang kp red blue white star"
+    },
+    {
+        "country": "South Korea",
+        "code": "kr",
+        "tld": "kr",
+        "capital": "Seoul",
+        "search": "south korea sør-korea seoul kr white black blue red"
+    },
+    {
+        "country": "Kuwait",
+        "code": "kw",
+        "tld": "kw",
+        "capital": "Kuwait City",
+        "search": "kuwait kuwait city kw green black red white"
+    },
+    {
+        "country": "Cayman Islands",
+        "code": "ky",
+        "tld": "ky",
+        "capital": "George Town",
+        "search": "cayman islands caymanøyene george town ky blue red white unionjack symbol"
+    },
+    {
+        "country": "Kazakhstan",
+        "code": "kz",
+        "tld": "kz",
+        "capital": "Astana",
+        "search": "kazakhstan kasakhstan astana kz blue yellow symbol"
+    },
+    {
+        "country": "Laos",
+        "code": "la",
+        "tld": "la",
+        "capital": "Vientiane",
+        "search": "laos vientiane la red blue white"
+    },
+    {
+        "country": "Lebanon",
+        "code": "lb",
+        "tld": "lb",
+        "capital": "Beirut",
+        "search": "lebanon libanon beirut lb red green white symbol"
+    },
+    {
+        "country": "Saint Lucia",
+        "code": "lc",
+        "tld": "lc",
+        "capital": "Castries",
+        "search": "saint lucia castries lc light blue black white yellow"
+    },
+    {
+        "country": "Liechtenstein",
+        "code": "li",
+        "tld": "li",
+        "capital": "Vaduz",
+        "search": "liechtenstein vaduz li blue red symbol"
+    },
+    {
+        "country": "Sri Lanka",
+        "code": "lk",
+        "tld": "lk",
+        "capital": "Sri Jayawardenapura Kotte",
+        "search": "sri lanka sri jayawardenapura kotte lk maroon gold green orange symbol"
+    },
+    {
+        "country": "Liberia",
+        "code": "lr",
+        "tld": "lr",
+        "capital": "Monrovia",
+        "search": "liberia monrovia lr red blue white star"
+    },
+    {
+        "country": "Lesotho",
+        "code": "ls",
+        "tld": "ls",
+        "capital": "Maseru",
+        "search": "lesotho maseru ls blue black green white symbol"
+    },
+    {
+        "country": "Lithuania",
+        "code": "lt",
+        "tld": "lt",
+        "capital": "Vilnius",
+        "search": "lithuania litauen vilnius lt yellow green red"
+    },
+    {
+        "country": "Luxembourg",
+        "code": "lu",
+        "tld": "lu",
+        "capital": "Luxembourg",
+        "search": "luxembourg luxembourg lu red light blue white"
+    },
+    {
+        "country": "Latvia",
+        "code": "lv",
+        "tld": "lv",
+        "capital": "Riga",
+        "search": "latvia riga lv red white"
+    },
+    {
+        "country": "Libya",
+        "code": "ly",
+        "tld": "ly",
+        "capital": "Tripoli",
+        "search": "libya tripoli ly red black green white star"
+    },
+    {
+        "country": "Morocco",
+        "code": "ma",
+        "tld": "ma",
+        "capital": "Rabat",
+        "search": "morocco marokko rabat ma red green star"
+    },
+    {
+        "country": "Monaco",
+        "code": "mc",
+        "tld": "mc",
+        "capital": "Monaco",
+        "search": "monaco monaco mc red white"
+    },
+    {
+        "country": "Moldova",
+        "code": "md",
+        "tld": "md",
+        "capital": "Chisinau",
+        "search": "moldova chisinau md blue gold red yellow symbol"
+    },
+    {
+        "country": "Montenegro",
+        "code": "me",
+        "tld": "me",
+        "capital": "Podgorica",
+        "search": "montenegro podgorica me red gold symbol"
+    },
+    {
+        "country": "Saint Martin",
+        "code": "mf",
+        "tld": "mf",
+        "capital": "Marigot",
+        "search": "saint martin marigot mf blue white red"
+    },
+    {
+        "country": "Madagascar",
+        "code": "mg",
+        "tld": "mg",
+        "capital": "Antananarivo",
+        "search": "madagascar madagaskar antananarivo mg red green white"
+    },
+    {
+        "country": "Marshall Islands",
+        "code": "mh",
+        "tld": "mh",
+        "capital": "Majuro",
+        "search": "marshall islands marshalløyene majuro mh blue orange white symbol"
+    },
+    {
+        "country": "North Macedonia",
+        "code": "mk",
+        "tld": "mk",
+        "capital": "Skopje",
+        "search": "north macedonia nord-makedonia skopje mk red yellow"
+    },
+    {
+        "country": "Mali",
+        "code": "ml",
+        "tld": "ml",
+        "capital": "Bamako",
+        "search": "mali bamako ml green red yellow"
+    },
+    {
+        "country": "Myanmar",
+        "code": "mm",
+        "tld": "mm",
+        "capital": "Naypyidaw",
+        "search": "myanmar naypyidaw mm yellow green red white star"
+    },
+    {
+        "country": "Mongolia",
+        "code": "mn",
+        "tld": "mn",
+        "capital": "Ulaanbaatar",
+        "search": "mongolia ulaanbaatar mn blue red yellow symbol"
+    },
+    {
+        "country": "Macao",
+        "code": "mo",
+        "tld": null,
+        "capital": null,
+        "search": "macao mo green white yellow symbol"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "code": "mp",
+        "tld": "mp",
+        "capital": "Saipan",
+        "search": "northern mariana islands nord-marianene saipan mp blue white symbol"
+    },
+    {
+        "country": "Martinique",
+        "code": "mq",
+        "tld": "mq",
+        "capital": null,
+        "search": "martinique mq blue white red"
+    },
+    {
+        "country": "Mauritania",
+        "code": "mr",
+        "tld": "mr",
+        "capital": "Nouakchott",
+        "search": "mauritania nouakchott mr green red yellow star"
+    },
+    {
+        "country": "Montserrat",
+        "code": "ms",
+        "tld": "ms",
+        "capital": "Plymouth",
+        "search": "montserrat plymouth ms blue white red unionjack symbol"
+    },
+    {
+        "country": "Malta",
+        "code": "mt",
+        "tld": "mt",
+        "capital": "Valletta",
+        "search": "malta valletta mt red white"
+    },
+    {
+        "country": "Mauritius",
+        "code": "mu",
+        "tld": "mu",
+        "capital": "Port Louis",
+        "search": "mauritius port louis mu red blue green yellow"
+    },
+    {
+        "country": "Maldives",
+        "code": "mv",
+        "tld": "mv",
+        "capital": "Malé",
+        "search": "maldives maldivene malé mv red white"
+    },
+    {
+        "country": "Malawi",
+        "code": "mw",
+        "tld": "mw",
+        "capital": "Lilongwe",
+        "search": "malawi lilongwe mw black green red"
+    },
+    {
+        "country": "Mexico",
+        "code": "mx",
+        "tld": "mx",
+        "capital": "Mexico City",
+        "search": "mexico mexico city mx green red white symbol"
+    },
+    {
+        "country": "Malaysia",
+        "code": "my",
+        "tld": "my",
+        "capital": "Kuala Lumpur",
+        "search": "malaysia kuala lumpur my red dark blue white yellow"
+    },
+    {
+        "country": "Mozambique",
+        "code": "mz",
+        "tld": "mz",
+        "capital": "Maputo",
+        "search": "mozambique mosambik maputo mz black green red white yellow symbol"
+    },
+    {
+        "country": "Namibia",
+        "code": "na",
+        "tld": "na",
+        "capital": "Windhoek",
+        "search": "namibia windhoek na blue green red white yellow"
+    },
+    {
+        "country": "New Caledonia",
+        "code": "nc",
+        "tld": "nc",
+        "capital": "Nouméa",
+        "search": "new caledonia ny-caledonia nouméa nc blue white red"
+    },
+    {
+        "country": "Niger",
+        "code": "ne",
+        "tld": "ne",
+        "capital": "Niamey",
+        "search": "niger niamey ne orange green white"
+    },
+    {
+        "country": "Norfolk Island",
+        "code": "nf",
+        "tld": "nf",
+        "capital": "Kingston",
+        "search": "norfolk island norfolkøya kingston nf green white symbol"
+    },
+    {
+        "country": "Nigeria",
+        "code": "ng",
+        "tld": "ng",
+        "capital": "Abuja",
+        "search": "nigeria abuja ng green white"
+    },
+    {
+        "country": "Nicaragua",
+        "code": "ni",
+        "tld": "ni",
+        "capital": "Managua",
+        "search": "nicaragua managua ni blue white symbol"
+    },
+    {
+        "country": "Netherlands",
+        "code": "nl",
+        "tld": "nl",
+        "capital": "Amsterdam",
+        "search": "netherlands nederland amsterdam nl red blue white"
+    },
+    {
+        "country": "Norway",
+        "code": "no",
+        "tld": "no",
+        "capital": "Oslo",
+        "search": "norway norge oslo norge no red blue white"
+    },
+    {
+        "country": "Nepal",
+        "code": "np",
+        "tld": "np",
+        "capital": "Kathmandu",
+        "search": "nepal kathmandu np crimson blue white"
+    },
+    {
+        "country": "Nauru",
+        "code": "nr",
+        "tld": "nr",
+        "capital": "Yaren",
+        "search": "nauru yaren nr blue white yellow"
+    },
+    {
+        "country": "Niue",
+        "code": "nu",
+        "tld": "nu",
+        "capital": "Alofi",
+        "search": "niue alofi nu gold unionjack"
+    },
+    {
+        "country": "New Zealand",
+        "code": "nz",
+        "tld": "nz",
+        "capital": "Wellington",
+        "search": "new zealand wellington nz white blue red unionjack star"
+    },
+    {
+        "country": "Oman",
+        "code": "om",
+        "tld": "om",
+        "capital": "Muscat",
+        "search": "oman muscat om red green white"
+    },
+    {
+        "country": "Panama",
+        "code": "pa",
+        "tld": "pa",
+        "capital": "Panama City",
+        "search": "panama panama city pa blue red white star"
+    },
+    {
+        "country": "Peru",
+        "code": "pe",
+        "tld": "pe",
+        "capital": "Lima",
+        "search": "peru lima pe red white symbol"
+    },
+    {
+        "country": "French Polynesia",
+        "code": "pf",
+        "tld": "pf",
+        "capital": "Papeete",
+        "search": "french polynesia fransk polynesia papeete pf red blue golden white symbol"
+    },
+    {
+        "country": "Papua New Guinea",
+        "code": "pg",
+        "tld": "pg",
+        "capital": "Port Moresby",
+        "search": "papua new guinea papua ny-guinea port moresby pg red black white yellow symbol star"
+    },
+    {
+        "country": "Philippines",
+        "code": "ph",
+        "tld": "ph",
+        "capital": "Manila",
+        "search": "philippines filippinene manila ph blue red white yellow"
+    },
+    {
+        "country": "Pakistan",
+        "code": "pk",
+        "tld": "pk",
+        "capital": "Islamabad",
+        "search": "pakistan islamabad pk green white star"
+    },
+    {
+        "country": "Poland",
+        "code": "pl",
+        "tld": "pl",
+        "capital": "Warsaw",
+        "search": "poland polen warsaw pl white red"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "code": "pm",
+        "tld": "pm",
+        "capital": "St. Pierre",
+        "search": "saint pierre and miquelon saint pierre og miquelon st. pierre pm blue white red"
+    },
+    {
+        "country": "Pitcairn Islands",
+        "code": "pn",
+        "tld": "pn",
+        "capital": "Adamstown",
+        "search": "pitcairn islands pitcairnøyene adamstown pn blue black brown green red white yellow unionjack symbol"
+    },
+    {
+        "country": "Puerto Rico",
+        "code": "pr",
+        "tld": "pr",
+        "capital": "San Juan",
+        "search": "puerto rico san juan pr blue white red star"
+    },
+    {
+        "country": "Palestine",
+        "code": "ps",
+        "tld": "ps",
+        "capital": "Jerusalem",
+        "search": "palestine palestina jerusalem ps black green red white"
+    },
+    {
+        "country": "Portugal",
+        "code": "pt",
+        "tld": "pt",
+        "capital": "Lisbon",
+        "search": "portugal lisbon pt red green white symbol"
+    },
+    {
+        "country": "Palau",
+        "code": "pw",
+        "tld": "pw",
+        "capital": "Ngerulmud",
+        "search": "palau ngerulmud pw yellow blue"
+    },
+    {
+        "country": "Paraguay",
+        "code": "py",
+        "tld": "py",
+        "capital": "Asunción",
+        "search": "paraguay asunción py red blue white symbol"
+    },
+    {
+        "country": "Qatar",
+        "code": "qa",
+        "tld": "qa",
+        "capital": "Doha",
+        "search": "qatar doha qa maroon white"
+    },
+    {
+        "country": "Réunion Island",
+        "code": "re",
+        "tld": "re",
+        "capital": "Saint-Denis",
+        "search": "réunion island øya réunion saint-denis re blue white red"
+    },
+    {
+        "country": "Romania",
+        "code": "ro",
+        "tld": "ro",
+        "capital": "Bucharest",
+        "search": "romania bucharest ro blue red yellow"
+    },
+    {
+        "country": "Serbia",
+        "code": "rs",
+        "tld": "rs",
+        "capital": "Belgrade",
+        "search": "serbia belgrade rs red blue white symbol"
+    },
+    {
+        "country": "Russia",
+        "code": "ru",
+        "tld": "ru",
+        "capital": "Moscow",
+        "search": "russia russland moscow ru white blue red"
+    },
+    {
+        "country": "Rwanda",
+        "code": "rw",
+        "tld": "rw",
+        "capital": "Kigali",
+        "search": "rwanda kigali rw sky blue green yellow"
+    },
+    {
+        "country": "Saudi Arabia",
+        "code": "sa",
+        "tld": "sa",
+        "capital": "Riyadh",
+        "search": "saudi arabia saudi-arabia riyadh sa green white symbol"
+    },
+    {
+        "country": "Solomon Islands",
+        "code": "sb",
+        "tld": "sb",
+        "capital": "Honiara",
+        "search": "solomon islands salomonøyene honiara sb olive green blue yellow star"
+    },
+    {
+        "country": "Seychelles",
+        "code": "sc",
+        "tld": "sc",
+        "capital": "Victoria",
+        "search": "seychelles seychellene victoria sc blue green red white yellow"
+    },
+    {
+        "country": "Sudan",
+        "code": "sd",
+        "tld": "sd",
+        "capital": "Khartoum",
+        "search": "sudan khartoum sd red black green white"
+    },
+    {
+        "country": "Sweden",
+        "code": "se",
+        "tld": "se",
+        "capital": "Stockholm",
+        "search": "sweden sverige stockholm se blue gold"
+    },
+    {
+        "country": "Singapore",
+        "code": "sg",
+        "tld": "sg",
+        "capital": "Singapore",
+        "search": "singapore singapore sg red white star"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "code": "sh",
+        "tld": "sh",
+        "capital": "Jamestown",
+        "search": "saint helena ascension and tristan da cunha saint helena ascension og tristan da cunha jamestown sh blue white red unionjack"
+    },
+    {
+        "country": "Slovenia",
+        "code": "si",
+        "tld": "si",
+        "capital": "Ljubljana",
+        "search": "slovenia ljubljana si black blue gold green red white symbol"
+    },
+    {
+        "country": "Svalbard and Jan Mayen Islands",
+        "code": "sj",
+        "tld": "sj",
+        "capital": "Longyearbyen",
+        "search": "svalbard and jan mayen islands svalbard og jan mayen longyearbyen sj blue white red"
+    },
+    {
+        "country": "Slovakia",
+        "code": "sk",
+        "tld": "sk",
+        "capital": "Bratislava",
+        "search": "slovakia bratislava sk white blue red"
+    },
+    {
+        "country": "Sierra Leone",
+        "code": "sl",
+        "tld": "sl",
+        "capital": "Freetown",
+        "search": "sierra leone freetown sl green blue white"
+    },
+    {
+        "country": "San Marino",
+        "code": "sm",
+        "tld": "sm",
+        "capital": "San Marino",
+        "search": "san marino san marino sm white light blue"
+    },
+    {
+        "country": "Senegal",
+        "code": "sn",
+        "tld": "sn",
+        "capital": "Dakar",
+        "search": "senegal dakar sn green red yellow star"
+    },
+    {
+        "country": "Somalia",
+        "code": "so",
+        "tld": "so",
+        "capital": "Mogadishu",
+        "search": "somalia mogadishu so blue white star"
+    },
+    {
+        "country": "Suriname",
+        "code": "sr",
+        "tld": "sr",
+        "capital": "Paramaribo",
+        "search": "suriname surinam paramaribo sr gold green red white star"
+    },
+    {
+        "country": "South Sudan",
+        "code": "ss",
+        "tld": "ss",
+        "capital": "Juba",
+        "search": "south sudan sør-sudan juba ss black blue green red white yellow star"
+    },
+    {
+        "country": "São Tomé and Príncipe",
+        "code": "st",
+        "tld": "st",
+        "capital": "São Tomé",
+        "search": "são tomé and príncipe são tomé og príncipe são tomé st red yellow green black star"
+    },
+    {
+        "country": "El Salvador",
+        "code": "sv",
+        "tld": "sv",
+        "capital": "San Salvador",
+        "search": "el salvador san salvador sv blue gold white symbol"
+    },
+    {
+        "country": "Sint Maarten",
+        "code": "sx",
+        "tld": "sx",
+        "capital": "Philipsburg",
+        "search": "sint maarten philipsburg sx blue white red symbol"
+    },
+    {
+        "country": "Syria",
+        "code": "sy",
+        "tld": "sy",
+        "capital": "Damascus",
+        "search": "syria damascus sy red white green black star"
+    },
+    {
+        "country": "Swaziland",
+        "code": "sz",
+        "tld": "sz",
+        "capital": "Mbabane",
+        "search": "swaziland mbabane sz blue yellow red black white symbol"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "code": "tc",
+        "tld": "tc",
+        "capital": "Cockburn Town",
+        "search": "turks and caicos islands turks- og caicosøyene cockburn town tc blue white red unionjack symbol"
+    },
+    {
+        "country": "Chad",
+        "code": "td",
+        "tld": "td",
+        "capital": "N'Djamena",
+        "search": "chad tsjad n'djamena td blue red yellow"
+    },
+    {
+        "country": "French Southern Territories",
+        "code": "tf",
+        "tld": null,
+        "capital": null,
+        "search": "french southern territories franske sørlige territorier tf blue white red star"
+    },
+    {
+        "country": "Togo",
+        "code": "tg",
+        "tld": "tg",
+        "capital": "Lomé",
+        "search": "togo lomé tg green red white yellow star"
+    },
+    {
+        "country": "Thailand",
+        "code": "th",
+        "tld": "th",
+        "capital": "Bangkok",
+        "search": "thailand bangkok th red blue white"
+    },
+    {
+        "country": "Tajikistan",
+        "code": "tj",
+        "tld": "tj",
+        "capital": "Dushanbe",
+        "search": "tajikistan tadsjikistan dushanbe tj golden green red white symbol star"
+    },
+    {
+        "country": "Tokelau",
+        "code": "tk",
+        "tld": "tk",
+        "capital": null,
+        "search": "tokelau tk yellow blue white star"
+    },
+    {
+        "country": "Timor-Leste",
+        "code": "tl",
+        "tld": "tl",
+        "capital": "Dili",
+        "search": "timor-leste øst-timor dili tl black yellow red white star"
+    },
+    {
+        "country": "Turkmenistan",
+        "code": "tm",
+        "tld": "tm",
+        "capital": "Ashgabat",
+        "search": "turkmenistan ashgabat tm green white symbol star"
+    },
+    {
+        "country": "Tunisia",
+        "code": "tn",
+        "tld": "tn",
+        "capital": "Tunis",
+        "search": "tunisia tunis tn red white star"
+    },
+    {
+        "country": "Tonga",
+        "code": "to",
+        "tld": "to",
+        "capital": "Nukuʻalofa",
+        "search": "tonga nukuʻalofa to red white"
+    },
+    {
+        "country": "Turkey",
+        "code": "tr",
+        "tld": "tr",
+        "capital": "Ankara",
+        "search": "turkey kalkun ankara tr red white star"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "code": "tt",
+        "tld": "tt",
+        "capital": "Port of Spain",
+        "search": "trinidad and tobago trinidad og tobago port of spain tt red black white"
+    },
+    {
+        "country": "Tuvalu",
+        "code": "tv",
+        "tld": "tv",
+        "capital": "Funafuti",
+        "search": "tuvalu funafuti tv dark blue gold red sky blue white unionjack star"
+    },
+    {
+        "country": "Taiwan",
+        "code": "tw",
+        "tld": "tw",
+        "capital": "Taipei",
+        "search": "taiwan taipei tw blue white red"
+    },
+    {
+        "country": "Tanzania",
+        "code": "tz",
+        "tld": "tz",
+        "capital": "Dodoma",
+        "search": "tanzania dodoma tz green yellow black blue"
+    },
+    {
+        "country": "Ukraine",
+        "code": "ua",
+        "tld": "ua",
+        "capital": "Kyiv",
+        "search": "ukraine ukraina kyiv ua blue gold"
+    },
+    {
+        "country": "Uganda",
+        "code": "ug",
+        "tld": "ug",
+        "capital": "Kampala",
+        "search": "uganda kampala ug blue red white yellow symbol"
+    },
+    {
+        "country": "US Minor Outlying Islands",
+        "code": "um",
+        "tld": "us",
+        "capital": null,
+        "search": "us minor outlying islands amerikanske mindre ytre øyer um us blue white red star"
+    },
+    {
+        "country": "United States",
+        "code": "us",
+        "tld": "us",
+        "capital": "Washington",
+        "search": "united states usa washington usa america us red blue white star"
+    },
+    {
+        "country": "Uruguay",
+        "code": "uy",
+        "tld": "uy",
+        "capital": "Montevideo",
+        "search": "uruguay montevideo uy blue white symbol"
+    },
+    {
+        "country": "Uzbekistan",
+        "code": "uz",
+        "tld": "uz",
+        "capital": "Tashkent",
+        "search": "uzbekistan usbekistan tashkent uz blue green red white star"
+    },
+    {
+        "country": "Vatican City",
+        "code": "va",
+        "tld": "va",
+        "capital": "Vatican City",
+        "search": "vatican city vatikanstaten vatican city holy see va yellow white symbol"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "code": "vc",
+        "tld": "vc",
+        "capital": "Kingstown",
+        "search": "saint vincent and the grenadines saint vincent og grenadinene kingstown vc blue green yellow"
+    },
+    {
+        "country": "Venezuela",
+        "code": "ve",
+        "tld": "ve",
+        "capital": "Caracas",
+        "search": "venezuela caracas ve yellow blue red star"
+    },
+    {
+        "country": "British Virgin Islands",
+        "code": "vg",
+        "tld": "vg",
+        "capital": "Road Town",
+        "search": "british virgin islands de britiske jomfruøyene road town vg blue white red green yellow unionjack symbol"
+    },
+    {
+        "country": "US Virgin Islands",
+        "code": "vi",
+        "tld": "vi",
+        "capital": "Charlotte Amalie",
+        "search": "us virgin islands de amerikanske jomfruøyene charlotte amalie vi white yellow blue symbol"
+    },
+    {
+        "country": "Vietnam",
+        "code": "vn",
+        "tld": "vn",
+        "capital": "Hanoi",
+        "search": "vietnam hanoi vn red yellow star"
+    },
+    {
+        "country": "Vanuatu",
+        "code": "vu",
+        "tld": "vu",
+        "capital": "Port Vila",
+        "search": "vanuatu port vila vu red black green yellow"
+    },
+    {
+        "country": "Wallis and Futuna Islands",
+        "code": "wf",
+        "tld": "wf",
+        "capital": "Mata-Utu",
+        "search": "wallis and futuna islands wallis og futuna-øyene mata-utu wf blue white red"
+    },
+    {
+        "country": "Samoa",
+        "code": "ws",
+        "tld": "ws",
+        "capital": "Apia",
+        "search": "samoa apia ws red blue white star"
+    },
+    {
+        "country": "Kosovo",
+        "code": "xk",
+        "tld": "xk",
+        "capital": "Pristina",
+        "search": "kosovo pristina xk blue gold white star"
+    },
+    {
+        "country": "Yemen",
+        "code": "ye",
+        "tld": "ye",
+        "capital": "Sanaá",
+        "search": "yemen jemen sanaá ye red black white"
+    },
+    {
+        "country": "Mayotte",
+        "code": "yt",
+        "tld": "yt",
+        "capital": "Mamoudzou",
+        "search": "mayotte mamoudzou yt blue white red"
+    },
+    {
+        "country": "South Africa",
+        "code": "za",
+        "tld": "za",
+        "capital": "Pretoria",
+        "search": "south africa sør-afrika pretoria za red black blue gold green white"
+    },
+    {
+        "country": "Zambia",
+        "code": "zm",
+        "tld": "zm",
+        "capital": "Lusaka",
+        "search": "zambia lusaka zm green black orange red symbol"
+    },
+    {
+        "country": "Zimbabwe",
+        "code": "zw",
+        "tld": "zw",
+        "capital": "Harare",
+        "search": "zimbabwe harare zw green black red white yellow symbol star"
+		}
+]
