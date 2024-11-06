@@ -1,0 +1,33 @@
+Here’s the updated table with additional rows for Thailand, Cambodia, Sri Lanka, Japan, Korea, Taiwan, and Bangladesh, along with examples of typical words, letters, or unique characteristics:
+
+| Country       | Unique Letters       | Common Letters        | Identification Tips                                       | Typical Words/Letters Example |
+|---------------|----------------------|------------------------|-----------------------------------------------------------|--------------------------------|
+| Estonia       | Õ                    | Ä Ö Š Ü Ž             | Frequent use of "õ"; lacks "f" in native words             | sõber (friend), tõde (truth)   |
+| Latvia        | Ā Ē Ģ Ī Ķ Ļ Ņ         | Č Š Ž                 | Frequent use of macrons (Ā Ē Ī Ū); doubled consonants are rare | Latvija (Latvia), bērns (child) |
+| Lithuania     | Ę Ė Į Ų               | Č Š Ž                 | Frequent use of "ė" and "į"; no "q", "w", "x" in native words | lietus (rain), švęsti (celebrate) |
+| Poland        | Ł Ń Ż                 | Ć Ś Ż                 | Frequent use of "ł" and "ę"; distinctive digraphs "cz", "sz" | język (language), szczęście (happiness) |
+| Czechia       | Ě Ř Ů                 | Č Š Ž                 | Frequent use of "ř" and "ů"; diacritics in consonants      | řeka (river), český (Czech)    |
+| Slovakia      | Ĺ Ľ Ô Ŕ               | Č Š Ž                 | Acute accents and carons; unique "ä"                      | ľudia (people), hôrka (hill)   |
+| Hungary       | Ő Ű                   | Ö Ü                   | Double acute accents (ő, ű); common "gy", "ny", "sz"      | gyümölcs (fruit), ülés (seat)  |
+| Slovenia      |                       | Č Š Ž                 | Uses "lj" and "nj" digraphs; lacks "q", "w", "x", "y"     | ljubezen (love), sreča (luck)  |
+| Croatia       |                       | Č Š Ž                 | "j" for English "y"; Latin script                        | život (life), ljubav (love)    |
+| Serbia        |                       | Č Ć Š Ž               | Uses both Cyrillic and Latin; "ђ", "ћ" in Cyrillic        | живот (life), љубав (love)     |
+| Montenegro    | З́                   | Č Ć Š Ž               | Includes З́ for alveolo-palatal fricative                 | српски (Serbian), моја (my)    |
+| Albania       | Ç Ë                   |                       | Unique "ë" and "ç"; lacks "w" and "y" in native words     | Shqipëri (Albania), mësoj (learn) |
+| N. Macedonia  | Ѓ Ќ (Ќ Ѓ Ј Љ Њ З́)    | (Č Ć Š Ž)             | Uses "ѓ", "ќ" in Cyrillic; Latin script "đ", "ž"         | љубов (love), учење (learning) |
+| Bulgaria      | Й Щ Ъ Ь               |                       | Cyrillic; unique "ъ" and "ь"                              | щастие (happiness), любов (love) |
+| Romania       | Ă Â Î Ș Ț             |                       | Unique "ș" and "ț"; presence of "â" and "î"               | România (Romania), fericire (happiness) |
+| Turkey        | İ Ş ı ğ               |                       | Dotted "İ" and undotted "ı"; frequent "ğ"                | ağaç (tree), İstanbul (Istanbul) |
+| Russia        | Ё Й Щ Ъ Ы Э Ю Я       |                       | Cyrillic; "ь" and "ъ" as soft/hard signs                  | Россия (Russia), любовь (love) |
+| Ukraine       | Є Ґ Ї І               |                       | Unique "ї" and "є"; lacks "ы" (replaced by "и")          | Україна (Ukraine), любов (love) |
+| Mongolia      | Ө Ү                   |                       | Uses Cyrillic with "ө" and "ү"; frequent "х"             | монгол (Mongol), хүн (person)  |
+| Finland       |                       | Ä Ö                   | Frequent "ä" and "ö"; unique double vowels               | Suomi (Finland), ystävä (friend) |
+| Thailand      | Thai script           |                       | Uses Thai script with unique symbols for tones            | สวัสดี (sawasdee - hello), ไทย (thai) |
+| Cambodia      | Khmer script          |                       | Uses Khmer script with distinctive looped characters      | សូម (som - please), ខ្មែរ (Khmer) |
+| Sri Lanka     | Sinhala script        |                       | Uses Sinhala script with rounded letters                  | ලංකාව (Lanka - Sri Lanka), ආයුබෝවන් (hello) |
+| Japan         | Hiragana, Katakana, Kanji |                   | Three scripts: Hiragana, Katakana, and Kanji              | こんにちは (konnichiwa - hello), 日本 (Japan) |
+| Korea         | Hangul                |                       | Uses unique Hangul script with blocks of characters       | 안녕하세요 (annyeonghaseyo - hello), 한국 (Korea) |
+| Taiwan        | Traditional Chinese   |                       | Traditional Chinese characters (more complex)             | 台灣 (Taiwan), 你好 (hello)     |
+| Bangladesh    | Bengali script        |                       | Uses Bengali script with distinctive loops and curls      | বাংলাদেশ (Bangladesh), বন্ধু (friend) |
+
+This table now includes additional countries from Asia and provides example words or letters typical for each language to assist in identification. Let me know if you need further customization!

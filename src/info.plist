@@ -245,9 +245,10 @@ export BASE=`pwd`
 			<dict>
 				<key>paths</key>
 				<array>
-					<string>~/Jottacloud/0_GEOGUESSR/cyrilic.webp</string>
-					<string>~/Jottacloud/0_GEOGUESSR/driving.png</string>
-					<string>~/Jottacloud/0_GEOGUESSR/europe_letter.png</string>
+					<string>~/projects/alfred/geoguessr/src/files/cyrilic.webp</string>
+					<string>~/projects/alfred/geoguessr/src/files/driving.png</string>
+					<string>~/projects/alfred/geoguessr/src/files/europe_letter.png</string>
+					<string>~/projects/alfred/geoguessr/src/files/text_letters.txt</string>
 				</array>
 				<key>toggle</key>
 				<false/>
