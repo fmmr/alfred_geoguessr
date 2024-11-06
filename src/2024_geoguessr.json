@@ -88,7 +88,7 @@
         "code": "au",
         "tld": "au",
         "capital": "Canberra",
-        "search": "australia canberra au blue red white unionjack symbol star new zealand oceania"
+        "search": "australia canberra au blue red white unionjack symbol star oceania"
     },
     {
         "country": "Aruba",
@@ -270,7 +270,7 @@
         "code": "cc",
         "tld": "cc",
         "capital": "West Island",
-        "search": "cocos keeling islands kokosøyene keeling west island cc green yellow star australia new zealand oceania"
+        "search": "cocos keeling islands kokosøyene keeling west island cc green yellow star oceania"
     },
     {
         "country": "Democratic Republic of the Congo",
@@ -375,7 +375,7 @@
         "code": "cx",
         "tld": "cx",
         "capital": "Flying Fish Cove",
-        "search": "christmas island juleøya flying fish cove cx green blue yellow white star diagonal australia new zealand oceania"
+        "search": "christmas island juleøya flying fish cove cx green blue yellow white star diagonal oceania"
     },
     {
         "country": "Cyprus",
@@ -704,7 +704,7 @@
         "code": "hm",
         "tld": "hm",
         "capital": null,
-        "search": "heard island mcdonald islands hm blue white red unionjack star australia new zealand oceania"
+        "search": "heard island mcdonald islands hm blue white red unionjack star oceania"
     },
     {
         "country": "Honduras",
@@ -1173,7 +1173,7 @@
         "code": "nf",
         "tld": "nf",
         "capital": "Kingston",
-        "search": "norfolk island kingston nf green white symbol vertical australia new zealand oceania"
+        "search": "norfolk island kingston nf green white symbol vertical oceania"
     },
     {
         "country": "Nigeria",
@@ -1229,7 +1229,7 @@
         "code": "nz",
         "tld": "nz",
         "capital": "Wellington",
-        "search": "new zealand wellington nz white blue red unionjack star australia oceania"
+        "search": "new zealand wellington nz white blue red unionjack star oceania"
     },
     {
         "country": "Oman",
