@@ -8,37 +8,11 @@
 	<string>FMR</string>
 	<key>connections</key>
 	<dict>
-		<key>263173F7-502B-4A1C-B1E9-10898D954621</key>
+		<key>9985B1A3-9D22-427C-B2C9-06C3CD076204</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>A243954C-E01B-493B-9842-1A55AB838967</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>4D113645-4F33-49EC-AADE-B3AC2F819CA8</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>B6407155-CFE2-4D10-896A-25A03CFEF3CE</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>973E0098-A33B-483A-89D1-3EE1C366B542</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>263173F7-502B-4A1C-B1E9-10898D954621</string>
+				<string>7B6F75D4-2611-48BA-814D-A777AEA675CF</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -51,7 +25,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>F01759D7-DA29-4833-9D09-1A765C93E521</string>
+				<string>148BCC21-A0F5-483D-9EDA-24C1C2F37DA8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -59,12 +33,22 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>F01759D7-DA29-4833-9D09-1A765C93E521</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
-		<key>CBA026CB-D47F-4789-9B16-F90D3138C22A</key>
+		<key>B6407155-CFE2-4D10-896A-25A03CFEF3CE</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>4D113645-4F33-49EC-AADE-B3AC2F819CA8</string>
+				<string>132D55E8-51CB-49B3-9955-34765862E785</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -87,27 +71,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>keyword</key>
-				<string>tld</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Top Level Domains</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>CBA026CB-D47F-4789-9B16-F90D3138C22A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>alfredfiltersresults</key>
 				<true/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -117,9 +80,11 @@
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>escaping</key>
 				<integer>102</integer>
+				<key>keyword</key>
+				<string>t</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -131,19 +96,21 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string></string>
+				<string>export MODE=TLD
+export BASE=`pwd`
+./geo.js</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>geo.js</string>
+				<string></string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
 				<string>Top Level Domain Search</string>
 				<key>type</key>
-				<integer>8</integer>
+				<integer>0</integer>
 				<key>withspace</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
@@ -155,20 +122,34 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Google Chrome.app</string>
+				</array>
+				<key>toggle</key>
 				<false/>
-				<key>variables</key>
-				<dict>
-					<key>MODE</key>
-					<string>TLD</string>
-				</dict>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.action.launchfiles</string>
 			<key>uid</key>
-			<string>4D113645-4F33-49EC-AADE-B3AC2F819CA8</string>
+			<string>132D55E8-51CB-49B3-9955-34765862E785</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Google Chrome.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>148BCC21-A0F5-483D-9EDA-24C1C2F37DA8</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -200,17 +181,19 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string></string>
+				<string>export MODE=FLAG
+export BASE=`pwd`
+./geo.js</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>geo.js</string>
+				<string></string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
 				<string>GeoGuessr</string>
 				<key>type</key>
-				<integer>8</integer>
+				<integer>0</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -240,40 +223,39 @@
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
-				<integer>1</integer>
+				<integer>2</integer>
 				<key>keyword</key>
-				<string>flag</string>
+				<string>opengeo</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Flags</string>
+				<string>Open Geo Files</string>
 				<key>withspace</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>973E0098-A33B-483A-89D1-3EE1C366B542</string>
+			<string>9985B1A3-9D22-427C-B2C9-06C3CD076204</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
+				<key>paths</key>
+				<array>
+					<string>~/Jottacloud/0_GEOGUESSR/cyrilic.webp</string>
+					<string>~/Jottacloud/0_GEOGUESSR/driving.png</string>
+					<string>~/Jottacloud/0_GEOGUESSR/europe_letter.png</string>
+				</array>
+				<key>toggle</key>
 				<false/>
-				<key>variables</key>
-				<dict>
-					<key>MODE</key>
-					<string>FLAG</string>
-				</dict>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.action.launchfiles</string>
 			<key>uid</key>
-			<string>263173F7-502B-4A1C-B1E9-10898D954621</string>
+			<string>7B6F75D4-2611-48BA-814D-A777AEA675CF</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -298,26 +280,33 @@ source data example:
     },</string>
 	<key>uidata</key>
 	<dict>
-		<key>263173F7-502B-4A1C-B1E9-10898D954621</key>
+		<key>132D55E8-51CB-49B3-9955-34765862E785</key>
 		<dict>
 			<key>xpos</key>
-			<real>390</real>
+			<real>705</real>
 			<key>ypos</key>
-			<real>315</real>
+			<real>135</real>
 		</dict>
-		<key>4D113645-4F33-49EC-AADE-B3AC2F819CA8</key>
+		<key>148BCC21-A0F5-483D-9EDA-24C1C2F37DA8</key>
 		<dict>
 			<key>xpos</key>
-			<real>390</real>
-			<key>ypos</key>
-			<real>165</real>
-		</dict>
-		<key>973E0098-A33B-483A-89D1-3EE1C366B542</key>
-		<dict>
-			<key>xpos</key>
-			<real>195</real>
+			<real>700</real>
 			<key>ypos</key>
 			<real>285</real>
+		</dict>
+		<key>7B6F75D4-2611-48BA-814D-A777AEA675CF</key>
+		<dict>
+			<key>xpos</key>
+			<real>695</real>
+			<key>ypos</key>
+			<real>605</real>
+		</dict>
+		<key>9985B1A3-9D22-427C-B2C9-06C3CD076204</key>
+		<dict>
+			<key>xpos</key>
+			<real>470</real>
+			<key>ypos</key>
+			<real>605</real>
 		</dict>
 		<key>A243954C-E01B-493B-9842-1A55AB838967</key>
 		<dict>
@@ -333,19 +322,12 @@ source data example:
 			<key>ypos</key>
 			<real>135</real>
 		</dict>
-		<key>CBA026CB-D47F-4789-9B16-F90D3138C22A</key>
-		<dict>
-			<key>xpos</key>
-			<real>195</real>
-			<key>ypos</key>
-			<real>135</real>
-		</dict>
 		<key>F01759D7-DA29-4833-9D09-1A765C93E521</key>
 		<dict>
 			<key>xpos</key>
-			<real>675</real>
+			<real>700</real>
 			<key>ypos</key>
-			<real>285</real>
+			<real>450</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>

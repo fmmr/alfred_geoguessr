@@ -4,9 +4,10 @@ ObjC.import("stdlib")
 
 const environment = $.NSProcessInfo.processInfo.environment.js;
 const MODE = 'MODE' in environment ? environment.MODE.js : undefined;
-// var browser = $.getenv('MODE')
-
+const BASE = 'BASE' in environment ? environment.BASE.js : undefined;
+const QUICK_LOOK_PATH = BASE + '/'
 console.log("Mode: " + MODE);
+console.log("Base dir: " + BASE);
 
 // ObjC.import("Foundation");
 // const args = $.NSProcessInfo.processInfo.arguments;
@@ -81,7 +82,7 @@ content.forEach(country => { // For each item in your list
 			'icon': {
 				'path': icon
 			},
-			"quicklookurl": file,
+			"quicklookurl": QUICK_LOOK_PATH + file,
 
 			"mods": {
 				"alt": {
