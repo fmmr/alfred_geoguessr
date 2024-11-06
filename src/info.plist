@@ -62,7 +62,7 @@
 				<key>modifiers</key>
 				<integer>262144</integer>
 				<key>modifiersubtext</key>
-				<string></string>
+				<string>Open flag in Preview</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
