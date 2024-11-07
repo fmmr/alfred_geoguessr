@@ -67,6 +67,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>AB852CC9-37A7-487E-867C-CA75015CDCE5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3B6C8EC8-E6E0-4E81-8FB2-24E4B3A8C122</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>B6407155-CFE2-4D10-896A-25A03CFEF3CE</key>
 		<array>
 			<dict>
@@ -204,27 +217,6 @@ export BASE=`pwd`
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>skipqueryencode</key>
-				<true/>
-				<key>skipvarencode</key>
-				<true/>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://www.geoguessr.com/multiplayer</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>E095EBB6-9658-4995-A202-E62DC93CB533</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>alfredfiltersresults</key>
 				<true/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -272,6 +264,27 @@ export BASE=`pwd`
 			<string>A243954C-E01B-493B-9842-1A55AB838967</string>
 			<key>version</key>
 			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<true/>
+				<key>skipvarencode</key>
+				<true/>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://www.geoguessr.com/multiplayer</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>E095EBB6-9658-4995-A202-E62DC93CB533</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -397,6 +410,48 @@ export BASE=`pwd`
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>z</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>open place in browser</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>AB852CC9-37A7-487E-867C-CA75015CDCE5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<false/>
+				<key>skipvarencode</key>
+				<false/>
+				<key>spaces</key>
+				<string>+</string>
+				<key>url</key>
+				<string>https://www.google.no/maps/place/{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>3B6C8EC8-E6E0-4E81-8FB2-24E4B3A8C122</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Searches through tld, names, capital and flag meta info for countries.  Displays flags in drop-down and opens the flag in preview if chosen.  Also use the alt-modifier to view a more accurate (but sqewed version) of the flag.
@@ -432,6 +487,13 @@ source data example:
 			<key>ypos</key>
 			<real>305</real>
 		</dict>
+		<key>3B6C8EC8-E6E0-4E81-8FB2-24E4B3A8C122</key>
+		<dict>
+			<key>xpos</key>
+			<real>465</real>
+			<key>ypos</key>
+			<real>765</real>
+		</dict>
 		<key>43DAA699-230F-488D-847C-4A5D4E861A8E</key>
 		<dict>
 			<key>xpos</key>
@@ -459,6 +521,13 @@ source data example:
 			<real>235</real>
 			<key>ypos</key>
 			<real>305</real>
+		</dict>
+		<key>AB852CC9-37A7-487E-867C-CA75015CDCE5</key>
+		<dict>
+			<key>xpos</key>
+			<real>235</real>
+			<key>ypos</key>
+			<real>765</real>
 		</dict>
 		<key>B6407155-CFE2-4D10-896A-25A03CFEF3CE</key>
 		<dict>
