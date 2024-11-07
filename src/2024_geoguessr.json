@@ -5,7 +5,7 @@
         "tld": "ad",
         "capital": "Andorra la Vella",
         "letters": null,
-        "search": "andorra la vella ad blue red yellow symbol vertical southern europe sør-europa europa"
+        "search": "andorra la vella ad blue red yellow symbol vertical blå rød gul vertikal southern europe sør-europa europa"
     },
     {
         "country": "United Arab Emirates",
@@ -13,7 +13,7 @@
         "tld": "ae",
         "capital": "Abu Dhabi",
         "letters": null,
-        "search": "united arab emirates de forente arabiske emirater abu dhabi uae ae red black green white horisontal vertical western asia vest-asia"
+        "search": "united arab emirates de forente arabiske emirater abu dhabi uae ae red black green white horisontal vertical rød svart grønn hvit vertikal western asia vest-asia"
     },
     {
         "country": "Afghanistan",
@@ -21,7 +21,7 @@
         "tld": "af",
         "capital": "Kabul",
         "letters": null,
-        "search": "afghanistan kabul af black green red white symbol vertical southern asia sør-asia"
+        "search": "afghanistan kabul af black green red white symbol vertical svart grønn rød hvit vertikal southern asia sør-asia"
     },
     {
         "country": "Antigua and Barbuda",
@@ -29,7 +29,7 @@
         "tld": "ag",
         "capital": "St. John's",
         "letters": null,
-        "search": "antigua barbuda st john's ag red black blue white yellow symbol horisontal diagonal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "antigua barbuda st john's ag red black blue white yellow symbol horisontal diagonal rød svart blå hvit gul caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Anguilla",
@@ -37,7 +37,7 @@
         "tld": "ai",
         "capital": "The Valley",
         "letters": null,
-        "search": "anguilla valley ai blue white unionjack symbol caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "anguilla valley ai blue white unionjack symbol blå hvit caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Albania",
@@ -45,7 +45,7 @@
         "tld": "al",
         "capital": "Tirana",
         "letters": "Ç Ë",
-        "search": "albania tirana al red black symbol southern europe sør-europa europa"
+        "search": "albania tirana al red black bird symbol rød svart fugl southern europe sør-europa europa"
     },
     {
         "country": "Armenia",
@@ -53,7 +53,7 @@
         "tld": "am",
         "capital": "Yerevan",
         "letters": null,
-        "search": "armenia yerevan am red blue orange horisontal western asia vest-asia"
+        "search": "armenia yerevan am red blue orange horisontal rød blå oransje western asia vest-asia"
     },
     {
         "country": "Angola",
@@ -61,7 +61,7 @@
         "tld": "ao",
         "capital": "Luanda",
         "letters": null,
-        "search": "angola luanda ao red black yellow symbol star horisontal middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "angola luanda ao red black yellow knife symbol star horisontal rød svart gul knivsymbol stjerne middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "Antarctica",
@@ -69,7 +69,7 @@
         "tld": "aq",
         "capital": null,
         "letters": null,
-        "search": "antarctica antarktis aq dark blue white symbol"
+        "search": "antarctica antarktis aq dark blue white continent symbol mørkeblått hvitt kontinentsymbol"
     },
     {
         "country": "Argentina",
@@ -77,7 +77,7 @@
         "tld": "ar",
         "capital": "Buenos Aires",
         "letters": null,
-        "search": "argentina buenos aires ar light blue white symbol horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "argentina buenos aires ar light blue white symbol horisontal lyseblått hvitt horisontalt south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "American Samoa",
@@ -85,7 +85,7 @@
         "tld": "as",
         "capital": "Pago Pago",
         "letters": null,
-        "search": "american samoa amerikansk pago as blue red white symbol diagonal polynesia oceania polynesia"
+        "search": "american samoa amerikansk pago as blue red white eagle bird symbol diagonal blå rød hvit ørn fugl polynesia oceania polynesia"
     },
     {
         "country": "Austria",
@@ -93,7 +93,7 @@
         "tld": "at",
         "capital": "Vienna",
         "letters": null,
-        "search": "austria østerrike vienna at red white horisontal western europe vest-europa europa"
+        "search": "austria østerrike vienna at red white horisontal rød hvit western europe vest-europa europa"
     },
     {
         "country": "Australia",
@@ -101,7 +101,7 @@
         "tld": "au",
         "capital": "Canberra",
         "letters": null,
-        "search": "australia canberra au blue red white unionjack symbol star oceania"
+        "search": "australia canberra au blue red white unionjack symbol star blå rød hvit stjerne oceania"
     },
     {
         "country": "Aruba",
@@ -109,7 +109,7 @@
         "tld": "aw",
         "capital": "Oranjestad",
         "letters": null,
-        "search": "aruba oranjestad aw blue red yellow star horisontal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "aruba oranjestad aw blue red yellow star horisontal blå rød gul stjerne caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Åland Islands",
@@ -117,7 +117,7 @@
         "tld": "ax",
         "capital": "Mariehamn",
         "letters": null,
-        "search": "åland islands mariehamn ax blue gold red cross northern europe nord-europa europa"
+        "search": "åland islands mariehamn ax blue gold red cross blått gull rødt kors northern europe nord-europa europa"
     },
     {
         "country": "Azerbaijan",
@@ -125,7 +125,7 @@
         "tld": "az",
         "capital": "Baku",
         "letters": null,
-        "search": "azerbaijan aserbajdsjan baku az light blue green red symbol horisontal western asia vest-asia"
+        "search": "azerbaijan aserbajdsjan baku az light blue green red symbol horisontal lyseblå grønn rødt horisontalt western asia vest-asia"
     },
     {
         "country": "Bosnia and Herzegovina",
@@ -133,7 +133,7 @@
         "tld": "ba",
         "capital": "Sarajevo",
         "letters": null,
-        "search": "bosnia herzegovina bosnia-hercegovina sarajevo ba blue white yellow star diagonal southern europe sør-europa europa"
+        "search": "bosnia herzegovina bosnia-hercegovina sarajevo ba blue white yellow star diagonal blå hvit gul stjerne southern europe sør-europa europa"
     },
     {
         "country": "Barbados",
@@ -141,7 +141,7 @@
         "tld": "bb",
         "capital": "Bridgetown",
         "letters": null,
-        "search": "barbados bridgetown bb blue black gold symbol vertical caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "barbados bridgetown bb blue black gold symbol vertical blått svart gull vertikalt caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Bangladesh",
@@ -149,7 +149,7 @@
         "tld": "bd",
         "capital": "Dhaka",
         "letters": "বাংলাদেশ বন্ধু",
-        "search": "bangladesh dhaka bd red green southern asia sør-asia"
+        "search": "bangladesh dhaka bd red green circle rød grønn sirkel southern asia sør-asia"
     },
     {
         "country": "Belgium",
@@ -157,7 +157,7 @@
         "tld": "be",
         "capital": "Brussels",
         "letters": null,
-        "search": "belgium belgia brussels be black red yellow vertical western europe vest-europa europa"
+        "search": "belgium belgia brussels be black red yellow vertical svart rød gul vertikal western europe vest-europa europa"
     },
     {
         "country": "Burkina Faso",
@@ -165,7 +165,7 @@
         "tld": "bf",
         "capital": "Ouagadougou",
         "letters": null,
-        "search": "burkina faso ouagadougou bf red green yellow star horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "burkina faso ouagadougou bf red green yellow star horisontal rød grønn gul stjerne western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Bulgaria",
@@ -173,7 +173,7 @@
         "tld": "bg",
         "capital": "Sofia",
         "letters": "Й Щ Ъ Ь",
-        "search": "bulgaria sofia bg white green red horisontal eastern europe øst-europa europa cyrillic"
+        "search": "bulgaria sofia bg white green red horisontal hvit grønn rød eastern europe øst-europa europa cyrillic"
     },
     {
         "country": "Bahrain",
@@ -181,7 +181,7 @@
         "tld": "bh",
         "capital": "Manama",
         "letters": null,
-        "search": "bahrain manama bh red white western asia vest-asia"
+        "search": "bahrain manama bh red white rød hvit western asia vest-asia"
     },
     {
         "country": "Burundi",
@@ -189,7 +189,7 @@
         "tld": "bi",
         "capital": "Bujumbura",
         "letters": null,
-        "search": "burundi bujumbura bi red green white star cross diagonal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "burundi bujumbura bi red green white star cross diagonal rød grønn hvit stjernekors eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Benin",
@@ -197,7 +197,7 @@
         "tld": "bj",
         "capital": "Porto-Novo",
         "letters": null,
-        "search": "benin porto-novo bj green red yellow horisontal vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "benin porto-novo bj green red yellow horisontal vertical grønn rød gul vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Saint Barthélemy",
@@ -205,7 +205,7 @@
         "tld": "bl",
         "capital": "Gustavia",
         "letters": null,
-        "search": "saint barthélemy gustavia barth’s barts bl dark blue white red vertical caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "saint barthélemy gustavia barth’s barts bl dark blue white red vertical mørk blå hvit rød vertikal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Bermuda",
@@ -213,7 +213,7 @@
         "tld": "bm",
         "capital": "Hamilton",
         "letters": null,
-        "search": "bermuda hamilton bm red unionjack symbol northern america north nord-amerika"
+        "search": "bermuda hamilton bm red unionjack symbol rødt unionjack-symbol northern america north nord-amerika"
     },
     {
         "country": "Brunei",
@@ -221,7 +221,7 @@
         "tld": "bn",
         "capital": "Bandar Seri Begawan",
         "letters": null,
-        "search": "brunei bandar seri begawan bn yellow black white symbol diagonal south-eastern asia sørøst-asia"
+        "search": "brunei bandar seri begawan bn yellow black white symbol diagonal gul svart hvit south-eastern asia sørøst-asia"
     },
     {
         "country": "Bolivia",
@@ -229,7 +229,7 @@
         "tld": "bo",
         "capital": "Sucre",
         "letters": null,
-        "search": "bolivia sucre bo red green yellow symbol horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "bolivia sucre bo red green yellow symbol horisontal rød grønn gul horisontalt south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Caribbean Netherlands",
@@ -237,7 +237,7 @@
         "tld": null,
         "capital": null,
         "letters": null,
-        "search": "caribbean netherlands karibiske nederland bq red white blue horisontal latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "caribbean netherlands karibiske nederland bq red white blue horisontal rød hvit blå latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Brazil",
@@ -245,7 +245,7 @@
         "tld": "br",
         "capital": "Brasília",
         "letters": null,
-        "search": "brazil brasil brasília br green blue gold symbol south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "brazil brasil brasília br green blue gold symbol grønt blått gull south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Bahamas",
@@ -253,7 +253,7 @@
         "tld": "bs",
         "capital": "Nassau",
         "letters": null,
-        "search": "bahamas nassau bs black aquamarine blue yellow horisontal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "bahamas nassau bs black aquamarine blue yellow horisontal svart akvamarin blå gul caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Bhutan",
@@ -261,7 +261,7 @@
         "tld": "bt",
         "capital": "Thimphu",
         "letters": null,
-        "search": "bhutan thimphu bt fulvous gold white symbol diagonal southern asia sør-asia"
+        "search": "bhutan thimphu bt fulvous gold white dragon symbol diagonal hvit drage southern asia sør-asia"
     },
     {
         "country": "Bouvet Island",
@@ -269,7 +269,7 @@
         "tld": "bv",
         "capital": null,
         "letters": null,
-        "search": "bouvet island bouvetøya bv blue red white cross south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "bouvet island bouvetøya bv blue red white cross blå rødt hvitt kors south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Botswana",
@@ -277,7 +277,7 @@
         "tld": "bw",
         "capital": "Gaborone",
         "letters": null,
-        "search": "botswana gaborone bw light blue black white horisontal southern africa sub-saharan sør-afrika sør for sahara afrika"
+        "search": "botswana gaborone bw light blue black white horisontal lyseblå svart hvit southern africa sub-saharan sør-afrika sør for sahara afrika"
     },
     {
         "country": "Belarus",
@@ -285,7 +285,7 @@
         "tld": "by",
         "capital": "Minsk",
         "letters": null,
-        "search": "belarus hviterussland minsk by red green white horisontal eastern europe øst-europa europa cyrillic"
+        "search": "belarus hviterussland minsk by red green white horisontal rød grønn hvit eastern europe øst-europa europa cyrillic"
     },
     {
         "country": "Belize",
@@ -293,7 +293,7 @@
         "tld": "bz",
         "capital": "Belmopan",
         "letters": null,
-        "search": "belize belmopan bz blue red white symbol horisontal central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "belize belmopan bz blue red white symbol horisontal blå rød hvit horisontalt central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Canada",
@@ -301,7 +301,7 @@
         "tld": "ca",
         "capital": "Ottawa",
         "letters": null,
-        "search": "canada ottawa ca red white vertical northern america north nord-amerika"
+        "search": "canada ottawa ca red white maple leaf vertical rødt hvitt lønneblad vertikalt northern america north nord-amerika"
     },
     {
         "country": "Cocos (Keeling) Islands",
@@ -309,7 +309,7 @@
         "tld": "cc",
         "capital": "West Island",
         "letters": null,
-        "search": "cocos keeling islands kokosøyene keeling west island cc green yellow star oceania"
+        "search": "cocos keeling islands kokosøyene keeling west island cc green yellow palm tree star grønn gul palmetrestjerne oceania"
     },
     {
         "country": "Democratic Republic of the Congo",
@@ -317,7 +317,7 @@
         "tld": "cd",
         "capital": "Kinshasa",
         "letters": null,
-        "search": "congo den kongo kinshasa cd blue red yellow star diagonal middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "congo den kongo kinshasa cd blue red yellow star diagonal blå rød gul stjerne middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "Central African Republic",
@@ -325,7 +325,7 @@
         "tld": "cf",
         "capital": "Bangui",
         "letters": null,
-        "search": "central african den sentralafrikanske republikk bangui cf blue green red white yellow star horisontal vertical middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "central african den sentralafrikanske republikk bangui cf blue green red white yellow star horisontal vertical blå grønn rød hvit gul stjerne vertikal middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "Republic of the Congo",
@@ -333,7 +333,7 @@
         "tld": "cg",
         "capital": "Brazzaville",
         "letters": null,
-        "search": "congo kongo brazzaville cg green red yellow diagonal middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "congo kongo brazzaville cg green red yellow diagonal grønn rød gul middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "Switzerland",
@@ -341,7 +341,7 @@
         "tld": "ch",
         "capital": "Bern",
         "letters": null,
-        "search": "switzerland sveits bern ch red white western europe vest-europa europa"
+        "search": "switzerland sveits bern ch red white cross rødt hvitt kors western europe vest-europa europa"
     },
     {
         "country": "Côte d'Ivoire",
@@ -349,7 +349,7 @@
         "tld": "ci",
         "capital": "Yamoussoukro",
         "letters": null,
-        "search": "côte d'ivoire elfenbenskysten yamoussoukro ivory coast ci orange green white vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "côte d'ivoire elfenbenskysten yamoussoukro ivory coast ci orange green white vertical oransje grønn hvit vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Cook Islands",
@@ -357,7 +357,7 @@
         "tld": "ck",
         "capital": "Avarua",
         "letters": null,
-        "search": "cook islands cookøyene avarua ck blue red white unionjack star polynesia oceania polynesia"
+        "search": "cook islands cookøyene avarua ck blue red white unionjack star blå rød hvit unionjack-stjerne polynesia oceania polynesia"
     },
     {
         "country": "Chile",
@@ -365,7 +365,7 @@
         "tld": "cl",
         "capital": "Santiago",
         "letters": null,
-        "search": "chile santiago cl red blue white star horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "chile santiago cl red blue white star horisontal rød blå hvit stjerne south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Cameroon",
@@ -373,7 +373,7 @@
         "tld": "cm",
         "capital": "Yaoundé",
         "letters": null,
-        "search": "cameroon kamerun yaoundé cm red green yellow star vertical middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "cameroon kamerun yaoundé cm red green yellow star vertical rød grønn gul stjerne vertikal middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "China",
@@ -381,7 +381,7 @@
         "tld": "cn",
         "capital": "Beijing",
         "letters": null,
-        "search": "china kina beijing cn red gold star eastern asia øst-asia"
+        "search": "china kina beijing cn red gold star rødt gull stjerne eastern asia øst-asia"
     },
     {
         "country": "Colombia",
@@ -389,7 +389,7 @@
         "tld": "co",
         "capital": "Bogotá",
         "letters": null,
-        "search": "colombia bogotá co yellow blue red horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "colombia bogotá co yellow blue red horisontal gul blå rød south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Costa Rica",
@@ -397,7 +397,7 @@
         "tld": "cr",
         "capital": "San José",
         "letters": null,
-        "search": "costa rica san josé cr blue red white symbol horisontal central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "costa rica san josé cr blue red white symbol horisontal blå rød hvit horisontalt central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Cuba",
@@ -405,7 +405,7 @@
         "tld": "cu",
         "capital": "Havana",
         "letters": null,
-        "search": "cuba havana cu blue red white star horisontal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "cuba havana cu blue red white star horisontal blå rød hvit stjerne caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Cape Verde",
@@ -413,7 +413,7 @@
         "tld": "cv",
         "capital": "Praia",
         "letters": null,
-        "search": "cape verde kapp praia cabo cv blue white red yellow star horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "cape verde kapp praia cabo cv blue white red yellow star horisontal blå hvit rød gul stjerne western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Curaçao",
@@ -421,7 +421,7 @@
         "tld": "cw",
         "capital": "Willemstad",
         "letters": null,
-        "search": "curaçao willemstad cw blue white yellow star horisontal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "curaçao willemstad cw blue white yellow star horisontal blå hvit gul stjerne caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Christmas Island",
@@ -429,7 +429,7 @@
         "tld": "cx",
         "capital": "Flying Fish Cove",
         "letters": null,
-        "search": "christmas island juleøya flying fish cove cx green blue yellow white star diagonal oceania"
+        "search": "christmas island juleøya flying fish cove cx green blue yellow white star diagonal grønn blå gul hvit stjerne oceania"
     },
     {
         "country": "Cyprus",
@@ -437,7 +437,7 @@
         "tld": "cy",
         "capital": "Nicosia",
         "letters": null,
-        "search": "cyprus kypros nicosia cy blue white symbol western asia vest-asia"
+        "search": "cyprus kypros nicosia cy blue white country symbol blått hvitt landsymbol western asia vest-asia"
     },
     {
         "country": "Czechia",
@@ -445,7 +445,7 @@
         "tld": "cz",
         "capital": "Prague",
         "letters": "Ě Ř Ů",
-        "search": "czechia tsjekkia prague czech tjekkia cz blue red white horisontal eastern europe øst-europa europa"
+        "search": "czechia tsjekkia prague czech tjekkia cz blue red white horisontal blå rød hvit eastern europe øst-europa europa"
     },
     {
         "country": "Germany",
@@ -453,7 +453,7 @@
         "tld": "de",
         "capital": "Berlin",
         "letters": null,
-        "search": "germany tyskland berlin de black gold red horisontal western europe vest-europa europa"
+        "search": "germany tyskland berlin de black gold red horisontal svart gull rød western europe vest-europa europa"
     },
     {
         "country": "Djibouti",
@@ -461,7 +461,7 @@
         "tld": "dj",
         "capital": "Djibouti",
         "letters": null,
-        "search": "djibouti dj light blue green red white star eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "djibouti dj light blue green red white star lyseblå grønn rød hvit stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Denmark",
@@ -469,7 +469,7 @@
         "tld": "dk",
         "capital": "Copenhagen",
         "letters": null,
-        "search": "denmark danmark copenhagen dk red white cross northern europe nord-europa europa"
+        "search": "denmark danmark copenhagen dk red white cross rødt hvitt kors northern europe nord-europa europa"
     },
     {
         "country": "Dominica",
@@ -477,7 +477,7 @@
         "tld": "dm",
         "capital": "Roseau",
         "letters": null,
-        "search": "dominica roseau dm green black red white yellow symbol cross caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "dominica roseau dm green black red white yellow bird parrot symbol cross grønn svart rød hvit gul fugl papegøyesymbolkors caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Dominican Republic",
@@ -485,7 +485,7 @@
         "tld": "do",
         "capital": "Santo Domingo",
         "letters": null,
-        "search": "dominican den dominikanske republikk santo domingo do blue red white symbol cross caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "dominican den dominikanske republikk santo domingo do blue red white symbol cross blå rød hvit symbolkors caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Algeria",
@@ -493,7 +493,7 @@
         "tld": "dz",
         "capital": "Algiers",
         "letters": null,
-        "search": "algeria algerie algiers dz green red white star vertical northern africa nord-afrika afrika"
+        "search": "algeria algerie algiers dz green red white star vertical grønn rød hvit stjerne vertikal northern africa nord-afrika afrika"
     },
     {
         "country": "Ecuador",
@@ -501,7 +501,7 @@
         "tld": "ec",
         "capital": "Quito",
         "letters": null,
-        "search": "ecuador quito ec yellow blue red symbol horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "ecuador quito ec yellow blue red bird symbol horisontal gul blå rød fugl horisontalt south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Estonia",
@@ -509,7 +509,7 @@
         "tld": "ee",
         "capital": "Tallinn",
         "letters": "Õ",
-        "search": "estonia estland tallinn ee blue black white horisontal northern europe nord-europa europa"
+        "search": "estonia estland tallinn ee blue black white horisontal blå svart hvit northern europe nord-europa europa"
     },
     {
         "country": "Egypt",
@@ -517,7 +517,7 @@
         "tld": "eg",
         "capital": "Cairo",
         "letters": null,
-        "search": "egypt cairo eg black gold red white symbol horisontal northern africa nord-afrika afrika"
+        "search": "egypt cairo eg black gold red white eagle bird symbol horisontal sort gull rød hvit ørn fugl horisontalt northern africa nord-afrika afrika"
     },
     {
         "country": "Western Sahara",
@@ -525,7 +525,7 @@
         "tld": "eh",
         "capital": "El Aaiún",
         "letters": null,
-        "search": "western sahara vest-sahara el aaiún eh red black white green symbol horisontal northern africa nord-afrika afrika"
+        "search": "western sahara vest-sahara el aaiún eh red black white green symbol horisontal rødt svart hvitt grønt horisontalt northern africa nord-afrika afrika"
     },
     {
         "country": "Eritrea",
@@ -533,7 +533,7 @@
         "tld": "er",
         "capital": "Asmara",
         "letters": null,
-        "search": "eritrea asmara er green blue red yellow symbol diagonal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "eritrea asmara er green blue red yellow symbol diagonal grønn blå rød gul eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Spain",
@@ -541,7 +541,7 @@
         "tld": "es",
         "capital": "Madrid",
         "letters": null,
-        "search": "spain spania madrid es red gold yellow symbol horisontal southern europe sør-europa europa"
+        "search": "spain spania madrid es red gold yellow symbol horisontal rødt gull gult horisontalt southern europe sør-europa europa"
     },
     {
         "country": "Ethiopia",
@@ -549,7 +549,7 @@
         "tld": "et",
         "capital": "Addis Ababa",
         "letters": null,
-        "search": "ethiopia etiopia addis ababa et green blue red yellow star horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "ethiopia etiopia addis ababa et green blue red yellow star horisontal grønn blå rød gul stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "European Union",
@@ -557,7 +557,7 @@
         "tld": "eu",
         "capital": null,
         "letters": null,
-        "search": "european union den europeiske eu blue yellow star europe europa"
+        "search": "european union den europeiske eu blue yellow star blå gul stjerne europe europa"
     },
     {
         "country": "Finland",
@@ -565,7 +565,7 @@
         "tld": "fi",
         "capital": "Helsinki",
         "letters": null,
-        "search": "finland helsinki fi white blue cross northern europe nord-europa europa"
+        "search": "finland helsinki fi white blue cross hvit blått kors northern europe nord-europa europa"
     },
     {
         "country": "Fiji",
@@ -573,7 +573,7 @@
         "tld": "fj",
         "capital": "Suva",
         "letters": null,
-        "search": "fiji suva fj dark blue gold light red white unionjack symbol melanesia oceania"
+        "search": "fiji suva fj dark blue gold light red white unionjack symbol mørkeblått gull lyseblått rødt hvitt unionjack-symbol melanesia oceania"
     },
     {
         "country": "Falkland Islands",
@@ -581,7 +581,7 @@
         "tld": "fk",
         "capital": "Stanley",
         "letters": null,
-        "search": "falkland islands falklandsøyene stanley malvinas fk blue light unionjack symbol south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "falkland islands falklandsøyene stanley malvinas fk blue light sheep boat ship unionjack symbol blått lyseblått sauebåtskip south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Micronesia",
@@ -589,7 +589,7 @@
         "tld": "fm",
         "capital": "Palikir",
         "letters": null,
-        "search": "micronesia mikronesia palikir fm blue white star oceania mikronesia"
+        "search": "micronesia mikronesia palikir fm blue white star blå hvit stjerne oceania mikronesia"
     },
     {
         "country": "Faroe Islands",
@@ -597,7 +597,7 @@
         "tld": "fo",
         "capital": "Tórshavn",
         "letters": null,
-        "search": "faroe islands færøyene tórshavn fo white blue red cross northern europe nord-europa europa"
+        "search": "faroe islands færøyene tórshavn fo white blue red cross hvitt blått rødt kors northern europe nord-europa europa"
     },
     {
         "country": "France",
@@ -605,7 +605,7 @@
         "tld": "fr",
         "capital": "Paris",
         "letters": null,
-        "search": "france frankrike paris fr blue red white vertical western europe vest-europa europa"
+        "search": "france frankrike paris fr blue red white vertical blå rød hvit vertikal western europe vest-europa europa"
     },
     {
         "country": "Gabon",
@@ -613,7 +613,7 @@
         "tld": "ga",
         "capital": "Libreville",
         "letters": null,
-        "search": "gabon libreville ga green blue yellow horisontal middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "gabon libreville ga green blue yellow horisontal grønn blå gul middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "England",
@@ -621,7 +621,7 @@
         "tld": "uk",
         "capital": "London",
         "letters": null,
-        "search": "england london united kingdom great britain gb-eng uk white red cross northern europe nord-europa europa"
+        "search": "england london united kingdom great britain gb-eng uk white red cross hvitt rødt kors northern europe nord-europa europa"
     },
     {
         "country": "Northern Ireland",
@@ -629,7 +629,7 @@
         "tld": "uk",
         "capital": "Belfast",
         "letters": null,
-        "search": "northern ireland nord-irland belfast united kingdom great britain gb-nir uk blue red white unionjack cross europe nord-europa europa"
+        "search": "northern ireland nord-irland belfast united kingdom great britain gb-nir uk blue red white unionjack cross blå rød hvit kors europe nord-europa europa"
     },
     {
         "country": "Scotland",
@@ -637,7 +637,7 @@
         "tld": "uk",
         "capital": "Edinburgh",
         "letters": null,
-        "search": "scotland skottland edinburgh united kingdom great britain gb-sct uk blue white cross northern europe nord-europa europa"
+        "search": "scotland skottland edinburgh united kingdom great britain gb-sct uk blue white cross blått hvitt kors northern europe nord-europa europa"
     },
     {
         "country": "Wales",
@@ -645,7 +645,7 @@
         "tld": "uk",
         "capital": "Cardiff",
         "letters": null,
-        "search": "wales cardiff united kingdom great britain gb-wls uk green white red symbol northern europe nord-europa europa"
+        "search": "wales cardiff united kingdom great britain gb-wls uk green white red dragon symbol grønn hvit rød drage northern europe nord-europa europa"
     },
     {
         "country": "United Kingdom",
@@ -653,7 +653,7 @@
         "tld": "uk",
         "capital": "London",
         "letters": null,
-        "search": "united kingdom storbritannia london great britain gb uk red blue white unionjack cross northern europe nord-europa europa"
+        "search": "united kingdom storbritannia london great britain gb uk red blue white unionjack cross rød blå hvit kors northern europe nord-europa europa"
     },
     {
         "country": "Grenada",
@@ -661,7 +661,7 @@
         "tld": "gd",
         "capital": "St. George's",
         "letters": null,
-        "search": "grenada st george's gd green red yellow star caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "grenada st george's gd green red yellow star grønn rød gul stjerne caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Georgia",
@@ -669,7 +669,7 @@
         "tld": "ge",
         "capital": "Tbilisi",
         "letters": null,
-        "search": "georgia tbilisi ge red white cross western asia vest-asia"
+        "search": "georgia tbilisi ge red white cross rødt hvitt kors western asia vest-asia"
     },
     {
         "country": "French Guiana",
@@ -677,7 +677,7 @@
         "tld": "gf",
         "capital": "Cayenne",
         "letters": null,
-        "search": "french guiana fransk guyana cayenne gf blue white red vertical south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "french guiana fransk guyana cayenne gf blue white red vertical blå hvit rød vertikal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Guernsey",
@@ -685,7 +685,7 @@
         "tld": "gg",
         "capital": "St. Peter Port",
         "letters": null,
-        "search": "guernsey st peter port gg white red yellow cross northern europe channel islands nord-europa kanaløyene europa"
+        "search": "guernsey st peter port gg white red yellow cross hvitt rødt gult kors northern europe channel islands nord-europa kanaløyene europa"
     },
     {
         "country": "Ghana",
@@ -693,7 +693,7 @@
         "tld": "gh",
         "capital": "Accra",
         "letters": null,
-        "search": "ghana accra gh red black green yellow star horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "ghana accra gh red black green yellow star horisontal rød svart grønn gul stjerne western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Gibraltar",
@@ -701,7 +701,7 @@
         "tld": "gi",
         "capital": "Gibraltar",
         "letters": null,
-        "search": "gibraltar gi red black white symbol horisontal southern europe sør-europa europa"
+        "search": "gibraltar gi red black white key castle symbol horisontal rød svart hvit nøkkel slott horisontalt southern europe sør-europa europa"
     },
     {
         "country": "Greenland",
@@ -709,7 +709,7 @@
         "tld": "gl",
         "capital": "Nuuk",
         "letters": null,
-        "search": "greenland grønland nuuk gl white red horisontal northern america north nord-amerika"
+        "search": "greenland grønland nuuk gl white red horisontal hvit rød northern america north nord-amerika"
     },
     {
         "country": "Gambia",
@@ -717,7 +717,7 @@
         "tld": "gm",
         "capital": "Banjul",
         "letters": null,
-        "search": "gambia banjul gm red blue green white horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "gambia banjul gm red blue green white horisontal rød blå grønn hvit western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Guinea",
@@ -725,7 +725,7 @@
         "tld": "gn",
         "capital": "Conakry",
         "letters": null,
-        "search": "guinea conakry gn red green yellow vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "guinea conakry gn red green yellow vertical rød grønn gul vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Guadeloupe",
@@ -733,7 +733,7 @@
         "tld": "gp",
         "capital": "Basse-Terre",
         "letters": null,
-        "search": "guadeloupe basse-terre gp blue white red vertical caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "guadeloupe basse-terre gp blue white red vertical blå hvit rød vertikal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Equatorial Guinea",
@@ -741,7 +741,7 @@
         "tld": "gq",
         "capital": "Malabo",
         "letters": null,
-        "search": "equatorial guinea ekvatorial-guinea malabo gq green blue red white symbol horisontal middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "equatorial guinea ekvatorial-guinea malabo gq green blue red white tree symbol star horisontal grønn blå rød hvit tresymbol stjerne middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "Greece",
@@ -749,7 +749,7 @@
         "tld": "gr",
         "capital": "Athens",
         "letters": null,
-        "search": "greece hellas athens gr blue white horisontal southern europe sør-europa europa"
+        "search": "greece hellas athens gr blue white horisontal cross blått hvitt horisontalt kors southern europe sør-europa europa"
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
@@ -757,7 +757,7 @@
         "tld": "gs",
         "capital": "Grytviken",
         "letters": null,
-        "search": "south georgia sandwich islands sør-georgia sør-sandwichøyene grytviken gs blue red white unionjack symbol america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "south georgia sandwich islands sør-georgia sør-sandwichøyene grytviken gs blue red white unionjack symbol blå rød hvit america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Guatemala",
@@ -765,7 +765,7 @@
         "tld": "gt",
         "capital": "Guatemala City",
         "letters": null,
-        "search": "guatemala city gt blue white symbol vertical central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "guatemala city gt blue white bird leaf symbol vertical blått hvitt fuglebladsymbol vertikalt central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Guam",
@@ -773,7 +773,7 @@
         "tld": "gu",
         "capital": "Hagåtña",
         "letters": null,
-        "search": "guam hagåtña gu blue symbol micronesia oceania mikronesia"
+        "search": "guam hagåtña gu blue sailboat palm boat symbol blå seilbåt palmebåt micronesia oceania mikronesia"
     },
     {
         "country": "Guinea-Bissau",
@@ -781,7 +781,7 @@
         "tld": "gw",
         "capital": "Bissau",
         "letters": null,
-        "search": "guinea-bissau bissau gw red black green yellow star horisontal vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "guinea-bissau bissau gw red black green yellow star horisontal vertical rød svart grønn gul stjerne vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Guyana",
@@ -789,7 +789,7 @@
         "tld": "gy",
         "capital": "Georgetown",
         "letters": null,
-        "search": "guyana georgetown gy black green red white yellow diagonal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "guyana georgetown gy black green red white yellow diagonal sort grønn rød hvit gul south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Hong Kong",
@@ -797,7 +797,7 @@
         "tld": "hk",
         "capital": null,
         "letters": null,
-        "search": "hong kong hk red symbol eastern asia øst-asia"
+        "search": "hong kong hk red symbol rødt eastern asia øst-asia"
     },
     {
         "country": "Heard Island and McDonald Islands",
@@ -805,7 +805,7 @@
         "tld": "hm",
         "capital": null,
         "letters": null,
-        "search": "heard island mcdonald islands hm blue white red unionjack star oceania"
+        "search": "heard island mcdonald islands hm blue white red unionjack star blå hvit rød stjerne oceania"
     },
     {
         "country": "Honduras",
@@ -813,7 +813,7 @@
         "tld": "hn",
         "capital": "Tegucigalpa",
         "letters": null,
-        "search": "honduras tegucigalpa hn blue white star horisontal central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "honduras tegucigalpa hn blue white star horisontal blå hvit stjerne central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Croatia",
@@ -821,7 +821,7 @@
         "tld": "hr",
         "capital": "Zagreb",
         "letters": null,
-        "search": "croatia kroatia zagreb hr red blue white symbol horisontal southern europe sør-europa europa"
+        "search": "croatia kroatia zagreb hr red blue white symbol horisontal rød blå hvit horisontalt southern europe sør-europa europa"
     },
     {
         "country": "Haiti",
@@ -829,7 +829,7 @@
         "tld": "ht",
         "capital": "Port-au-Prince",
         "letters": null,
-        "search": "haiti port-au-prince ht blue red symbol horisontal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "haiti port-au-prince ht blue red palm symbol horisontal blå rød palmesymbol horisontalt caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Hungary",
@@ -837,7 +837,7 @@
         "tld": "hu",
         "capital": "Budapest",
         "letters": "Ő Ű",
-        "search": "hungary ungarn budapest hu red green white horisontal eastern europe øst-europa europa"
+        "search": "hungary ungarn budapest hu red green white horisontal rød grønn hvit eastern europe øst-europa europa"
     },
     {
         "country": "Indonesia",
@@ -845,7 +845,7 @@
         "tld": "id",
         "capital": "Jakarta",
         "letters": null,
-        "search": "indonesia jakarta id red white horisontal south-eastern asia sørøst-asia"
+        "search": "indonesia jakarta id red white horisontal rød hvit south-eastern asia sørøst-asia"
     },
     {
         "country": "Ireland",
@@ -853,7 +853,7 @@
         "tld": "ie",
         "capital": "Dublin",
         "letters": null,
-        "search": "ireland irland dublin ie green orange blue vertical northern europe nord-europa europa"
+        "search": "ireland irland dublin ie green orange blue vertical grønn oransje blå vertikal northern europe nord-europa europa"
     },
     {
         "country": "Israel",
@@ -861,7 +861,7 @@
         "tld": "il",
         "capital": "Jerusalem",
         "letters": null,
-        "search": "israel jerusalem il blue white star horisontal western asia vest-asia"
+        "search": "israel jerusalem il blue white star horisontal blå hvit stjerne western asia vest-asia"
     },
     {
         "country": "Isle of Man",
@@ -869,7 +869,7 @@
         "tld": "im",
         "capital": "Douglas",
         "letters": null,
-        "search": "isle man douglas im red white symbol northern europe nord-europa europa"
+        "search": "isle man douglas im red white symbol rødt hvitt northern europe nord-europa europa"
     },
     {
         "country": "India",
@@ -877,7 +877,7 @@
         "tld": "in",
         "capital": "New Delhi",
         "letters": null,
-        "search": "india new delhi in blue green saffron orange white symbol horisontal southern asia sør-asia"
+        "search": "india new delhi in blue green saffron orange white symbol horisontal blå grønn safran oransje hvit horisontalt southern asia sør-asia"
     },
     {
         "country": "British Indian Ocean Territory",
@@ -885,7 +885,7 @@
         "tld": "io",
         "capital": null,
         "letters": null,
-        "search": "british indian ocean territory britisk territorium i indiske hav io wave blue white red unionjack symbol eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "british indian ocean territory britisk territorium i indiske hav io wave blue white red unionjack symbol bølge blå hvit rød eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Iraq",
@@ -893,7 +893,7 @@
         "tld": "iq",
         "capital": "Baghdad",
         "letters": null,
-        "search": "iraq irak baghdad iq red black green white symbol horisontal western asia vest-asia"
+        "search": "iraq irak baghdad iq red black green white symbol horisontal rød svart grønn hvit horisontalt western asia vest-asia"
     },
     {
         "country": "Iran",
@@ -901,7 +901,7 @@
         "tld": "ir",
         "capital": "Tehran",
         "letters": null,
-        "search": "iran tehran ir green red white symbol horisontal southern asia sør-asia"
+        "search": "iran tehran ir green red white symbol horisontal grønn rød hvit horisontalt southern asia sør-asia"
     },
     {
         "country": "Iceland",
@@ -909,7 +909,7 @@
         "tld": "is",
         "capital": "Reykjavík",
         "letters": null,
-        "search": "iceland island reykjavík is blue red white cross northern europe nord-europa europa"
+        "search": "iceland island reykjavík is blue red white cross blå rødt hvitt kors northern europe nord-europa europa"
     },
     {
         "country": "Italy",
@@ -917,7 +917,7 @@
         "tld": "it",
         "capital": "Rome",
         "letters": null,
-        "search": "italy italia rome it green red white vertical southern europe sør-europa europa"
+        "search": "italy italia rome it green red white vertical grønn rød hvit vertikal southern europe sør-europa europa"
     },
     {
         "country": "Jersey",
@@ -925,7 +925,7 @@
         "tld": "je",
         "capital": "St. Helier",
         "letters": null,
-        "search": "jersey st helier je white red yellow symbol cross northern europe channel islands nord-europa kanaløyene europa"
+        "search": "jersey st helier je white red yellow symbol cross hvitt rødt gult symbolkors northern europe channel islands nord-europa kanaløyene europa"
     },
     {
         "country": "Jamaica",
@@ -933,7 +933,7 @@
         "tld": "jm",
         "capital": "Kingston",
         "letters": null,
-        "search": "jamaica kingston jm green black gold cross caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "jamaica kingston jm green black gold cross grønt svart gull kors caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Jordan",
@@ -941,7 +941,7 @@
         "tld": "jo",
         "capital": "Amman",
         "letters": null,
-        "search": "jordan amman jo black green red white star vertical diagonal western asia vest-asia"
+        "search": "jordan amman jo black green red white star vertical diagonal svart grønn rød hvit stjerne vertikal western asia vest-asia"
     },
     {
         "country": "Japan",
@@ -949,7 +949,7 @@
         "tld": "jp",
         "capital": "Tokyo",
         "letters": "こんにちは 日本",
-        "search": "japan tokyo jp red white eastern asia øst-asia"
+        "search": "japan tokyo jp red white rød hvit eastern asia øst-asia"
     },
     {
         "country": "Kenya",
@@ -957,7 +957,7 @@
         "tld": "ke",
         "capital": "Nairobi",
         "letters": null,
-        "search": "kenya nairobi ke black green red white symbol horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "kenya nairobi ke black green red white symbol horisontal sort grønn rød hvit horisontalt eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Kyrgyzstan",
@@ -965,7 +965,7 @@
         "tld": "kg",
         "capital": "Bishkek",
         "letters": null,
-        "search": "kyrgyzstan kirgisistan bishkek kg red yellow symbol central asia sentral-asia cyrillic"
+        "search": "kyrgyzstan kirgisistan bishkek kg red yellow symbol rødt gult central asia sentral-asia cyrillic"
     },
     {
         "country": "Cambodia",
@@ -973,7 +973,7 @@
         "tld": "kh",
         "capital": "Phnom Penh",
         "letters": "សូម ខ្មែរ",
-        "search": "cambodia kambodsja phnom penh kh red blue white symbol horisontal south-eastern asia sørøst-asia"
+        "search": "cambodia kambodsja phnom penh kh red blue white angkor wat temple symbol horisontal rød blå hvit tempelsymbol horisontalt south-eastern asia sørøst-asia"
     },
     {
         "country": "Kiribati",
@@ -981,7 +981,7 @@
         "tld": "ki",
         "capital": "Tarawa",
         "letters": null,
-        "search": "kiribati tarawa ki red blue gold white wave symbol horisontal micronesia oceania mikronesia"
+        "search": "kiribati tarawa ki red blue gold white wave bird sun symbol horisontal rød blå gull hvit bølgefugl solsymbol horisontalt micronesia oceania mikronesia"
     },
     {
         "country": "Comoros",
@@ -989,7 +989,7 @@
         "tld": "km",
         "capital": "Moroni",
         "letters": null,
-        "search": "comoros komorene moroni km yellow blue green red white star horisontal diagonal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "comoros komorene moroni km yellow blue green red white star horisontal diagonal gul blå grønn rød hvit stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Saint Kitts and Nevis",
@@ -997,7 +997,7 @@
         "tld": "kn",
         "capital": "Basseterre",
         "letters": null,
-        "search": "saint kitts nevis basseterre kn green red white star diagonal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "saint kitts nevis basseterre kn green red white star diagonal grønn rød hvit stjerne caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "North Korea",
@@ -1005,7 +1005,7 @@
         "tld": "kp",
         "capital": "Pyongyang",
         "letters": null,
-        "search": "north korea nord-korea pyongyang kp red blue white star horisontal eastern asia øst-asia"
+        "search": "north korea nord-korea pyongyang kp red blue white star horisontal rød blå hvit stjerne eastern asia øst-asia"
     },
     {
         "country": "South Korea",
@@ -1013,7 +1013,7 @@
         "tld": "kr",
         "capital": "Seoul",
         "letters": "안녕하세요 한국",
-        "search": "south korea sør-korea seoul kr white black blue red eastern asia øst-asia"
+        "search": "south korea sør-korea seoul kr white black blue red hvit svart blå rød eastern asia øst-asia"
     },
     {
         "country": "Kuwait",
@@ -1021,7 +1021,7 @@
         "tld": "kw",
         "capital": "Kuwait City",
         "letters": null,
-        "search": "kuwait city kw green black red white horisontal western asia vest-asia"
+        "search": "kuwait city kw green black red white horisontal grønn svart rød hvit western asia vest-asia"
     },
     {
         "country": "Cayman Islands",
@@ -1029,7 +1029,7 @@
         "tld": "ky",
         "capital": "George Town",
         "letters": null,
-        "search": "cayman islands caymanøyene george town ky blue red white unionjack symbol caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "cayman islands caymanøyene george town ky blue red white unionjack symbol blå rød hvit caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Kazakhstan",
@@ -1037,7 +1037,7 @@
         "tld": "kz",
         "capital": "Astana",
         "letters": null,
-        "search": "kazakhstan kasakhstan astana kz blue yellow symbol central asia sentral-asia cyrillic"
+        "search": "kazakhstan kasakhstan astana kz blue yellow sun bird eagle symbol blå gul solfugl ørn central asia sentral-asia cyrillic"
     },
     {
         "country": "Laos",
@@ -1045,7 +1045,7 @@
         "tld": "la",
         "capital": "Vientiane",
         "letters": null,
-        "search": "laos vientiane la red blue white horisontal south-eastern asia sørøst-asia"
+        "search": "laos vientiane la red blue white circle horisontal rød blå hvit sirkel south-eastern asia sørøst-asia"
     },
     {
         "country": "Lebanon",
@@ -1053,7 +1053,7 @@
         "tld": "lb",
         "capital": "Beirut",
         "letters": null,
-        "search": "lebanon libanon beirut lb red green white symbol horisontal western asia vest-asia"
+        "search": "lebanon libanon beirut lb red green white tree symbol horisontal rød grønn hvit tresymbol horisontalt western asia vest-asia"
     },
     {
         "country": "Saint Lucia",
@@ -1061,7 +1061,7 @@
         "tld": "lc",
         "capital": "Castries",
         "letters": null,
-        "search": "saint lucia castries lc light blue black white yellow caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "saint lucia castries lc light blue black white yellow lyseblå svart hvit gul caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Liechtenstein",
@@ -1069,7 +1069,7 @@
         "tld": "li",
         "capital": "Vaduz",
         "letters": null,
-        "search": "liechtenstein vaduz li blue red symbol horisontal western europe vest-europa europa"
+        "search": "liechtenstein vaduz li blue red crown symbol horisontal blå rød kronesymbol horisontalt western europe vest-europa europa"
     },
     {
         "country": "Sri Lanka",
@@ -1077,7 +1077,7 @@
         "tld": "lk",
         "capital": "Sri Jayawardenapura Kotte",
         "letters": "ලංකාව ආයුබෝවන්",
-        "search": "sri lanka jayawardenapura kotte lk maroon gold green orange symbol southern asia sør-asia"
+        "search": "sri lanka jayawardenapura kotte lk maroon gold green orange lion sword symbol rødbrun gull grønn oransje løvesverdsymbol southern asia sør-asia"
     },
     {
         "country": "Liberia",
@@ -1085,7 +1085,7 @@
         "tld": "lr",
         "capital": "Monrovia",
         "letters": null,
-        "search": "liberia monrovia lr red blue white star horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "liberia monrovia lr red blue white star horisontal rød blå hvit stjerne western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Lesotho",
@@ -1093,7 +1093,7 @@
         "tld": "ls",
         "capital": "Maseru",
         "letters": null,
-        "search": "lesotho maseru ls blue black green white symbol horisontal southern africa sub-saharan sør-afrika sør for sahara afrika"
+        "search": "lesotho maseru ls blue black green white symbol horisontal blå svart grønn hvit horisontalt southern africa sub-saharan sør-afrika sør for sahara afrika"
     },
     {
         "country": "Lithuania",
@@ -1101,7 +1101,7 @@
         "tld": "lt",
         "capital": "Vilnius",
         "letters": "Ę Ė Į Ų",
-        "search": "lithuania litauen vilnius lt yellow green red horisontal northern europe nord-europa europa"
+        "search": "lithuania litauen vilnius lt yellow green red horisontal gul grønn rød northern europe nord-europa europa"
     },
     {
         "country": "Luxembourg",
@@ -1109,7 +1109,7 @@
         "tld": "lu",
         "capital": "Luxembourg",
         "letters": null,
-        "search": "luxembourg lu red light blue white horisontal western europe vest-europa europa"
+        "search": "luxembourg lu red light blue white horisontal rød lys blå hvit western europe vest-europa europa"
     },
     {
         "country": "Latvia",
@@ -1117,7 +1117,7 @@
         "tld": "lv",
         "capital": "Riga",
         "letters": "Ā Ē Ģ Ī Ķ Ļ Ņ",
-        "search": "latvia riga lv red white horisontal northern europe nord-europa europa"
+        "search": "latvia riga lv red white horisontal rød hvit northern europe nord-europa europa"
     },
     {
         "country": "Libya",
@@ -1125,7 +1125,7 @@
         "tld": "ly",
         "capital": "Tripoli",
         "letters": null,
-        "search": "libya tripoli ly red black green white star horisontal northern africa nord-afrika afrika"
+        "search": "libya tripoli ly red black green white star horisontal rød svart grønn hvit stjerne northern africa nord-afrika afrika"
     },
     {
         "country": "Morocco",
@@ -1133,7 +1133,7 @@
         "tld": "ma",
         "capital": "Rabat",
         "letters": null,
-        "search": "morocco marokko rabat ma red green star northern africa nord-afrika afrika"
+        "search": "morocco marokko rabat ma red green star rød grønn stjerne northern africa nord-afrika afrika"
     },
     {
         "country": "Monaco",
@@ -1141,7 +1141,7 @@
         "tld": "mc",
         "capital": "Monaco",
         "letters": null,
-        "search": "monaco mc red white horisontal western europe vest-europa europa"
+        "search": "monaco mc red white horisontal rød hvit western europe vest-europa europa"
     },
     {
         "country": "Moldova",
@@ -1149,7 +1149,7 @@
         "tld": "md",
         "capital": "Chisinau",
         "letters": null,
-        "search": "moldova chisinau md blue gold red yellow symbol vertical eastern europe øst-europa europa"
+        "search": "moldova chisinau md blue gold red yellow eagle septer bull symbol vertical blå gull rød gul ørn oksesymbol vertikal eastern europe øst-europa europa"
     },
     {
         "country": "Montenegro",
@@ -1157,7 +1157,7 @@
         "tld": "me",
         "capital": "Podgorica",
         "letters": "З́",
-        "search": "montenegro podgorica me red gold symbol southern europe sør-europa europa"
+        "search": "montenegro podgorica me red gold eagle bird symbol rød gullørn fugl southern europe sør-europa europa"
     },
     {
         "country": "Saint Martin",
@@ -1165,7 +1165,7 @@
         "tld": "mf",
         "capital": "Marigot",
         "letters": null,
-        "search": "saint martin marigot mf blue white red vertical caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "saint martin marigot mf blue white red vertical blå hvit rød vertikal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Madagascar",
@@ -1173,7 +1173,7 @@
         "tld": "mg",
         "capital": "Antananarivo",
         "letters": null,
-        "search": "madagascar madagaskar antananarivo mg red green white horisontal vertical eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "madagascar madagaskar antananarivo mg red green white horisontal vertical rød grønn hvit vertikal eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Marshall Islands",
@@ -1181,7 +1181,7 @@
         "tld": "mh",
         "capital": "Majuro",
         "letters": null,
-        "search": "marshall islands marshalløyene majuro mh blue orange white symbol diagonal micronesia oceania mikronesia"
+        "search": "marshall islands marshalløyene majuro mh blue orange white symbol diagonal blå oransje hvit micronesia oceania mikronesia"
     },
     {
         "country": "North Macedonia",
@@ -1189,7 +1189,7 @@
         "tld": "mk",
         "capital": "Skopje",
         "letters": "Ѓ Ќ (Ќ Ѓ Ј Љ Њ З́)",
-        "search": "north macedonia nord-makedonia skopje mk red yellow southern europe sør-europa europa cyrillic"
+        "search": "north macedonia nord-makedonia skopje mk red yellow circle rød gul sirkel southern europe sør-europa europa cyrillic"
     },
     {
         "country": "Mali",
@@ -1197,7 +1197,7 @@
         "tld": "ml",
         "capital": "Bamako",
         "letters": null,
-        "search": "mali bamako ml green red yellow vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "mali bamako ml green red yellow vertical grønn rød gul vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Myanmar",
@@ -1205,7 +1205,7 @@
         "tld": "mm",
         "capital": "Naypyidaw",
         "letters": null,
-        "search": "myanmar naypyidaw burma mm yellow green red white star horisontal south-eastern asia sørøst-asia"
+        "search": "myanmar naypyidaw burma mm yellow green red white star horisontal gul grønn rød hvit stjerne south-eastern asia sørøst-asia"
     },
     {
         "country": "Mongolia",
@@ -1213,7 +1213,7 @@
         "tld": "mn",
         "capital": "Ulaanbaatar",
         "letters": "Ө Ү",
-        "search": "mongolia ulaanbaatar mn blue red yellow symbol vertical eastern asia øst-asia"
+        "search": "mongolia ulaanbaatar mn blue red yellow symbol vertical blå rød gul vertikal eastern asia øst-asia"
     },
     {
         "country": "Macau",
@@ -1221,7 +1221,7 @@
         "tld": "mo",
         "capital": null,
         "letters": null,
-        "search": "macau macao mo green white yellow symbol eastern asia øst-asia"
+        "search": "macau macao mo green white yellow symbol grønt hvitt gult eastern asia øst-asia"
     },
     {
         "country": "Northern Mariana Islands",
@@ -1229,7 +1229,7 @@
         "tld": "mp",
         "capital": "Saipan",
         "letters": null,
-        "search": "northern mariana islands nord-marianene saipan mp blue white symbol micronesia oceania mikronesia"
+        "search": "northern mariana islands nord-marianene saipan mp blue white symbol star blå hvit stjerne micronesia oceania mikronesia"
     },
     {
         "country": "Martinique",
@@ -1237,7 +1237,7 @@
         "tld": "mq",
         "capital": "Fort-de-France",
         "letters": null,
-        "search": "martinique fort-de-france mq blue white red vertical caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "martinique fort-de-france mq blue white red vertical blå hvit rød vertikal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Mauritania",
@@ -1245,7 +1245,7 @@
         "tld": "mr",
         "capital": "Nouakchott",
         "letters": null,
-        "search": "mauritania nouakchott mr green red yellow star horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "mauritania nouakchott mr green red yellow star horisontal grønn rød gul stjerne western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Montserrat",
@@ -1253,7 +1253,7 @@
         "tld": "ms",
         "capital": "Plymouth",
         "letters": null,
-        "search": "montserrat plymouth ms blue white red unionjack symbol caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "montserrat plymouth ms blue white red unionjack symbol blå hvit rød caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Malta",
@@ -1261,7 +1261,7 @@
         "tld": "mt",
         "capital": "Valletta",
         "letters": null,
-        "search": "malta valletta mt red white vertical southern europe sør-europa europa"
+        "search": "malta valletta mt red white vertical rød hvit vertikal southern europe sør-europa europa"
     },
     {
         "country": "Mauritius",
@@ -1269,7 +1269,7 @@
         "tld": "mu",
         "capital": "Port Louis",
         "letters": null,
-        "search": "mauritius port louis mu red blue green yellow horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "mauritius port louis mu red blue green yellow horisontal rød blå grønn gul eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Maldives",
@@ -1277,7 +1277,7 @@
         "tld": "mv",
         "capital": "Malé",
         "letters": null,
-        "search": "maldives maldivene malé mv red white southern asia sør-asia"
+        "search": "maldives maldivene malé mv red white rød hvit southern asia sør-asia"
     },
     {
         "country": "Malawi",
@@ -1285,7 +1285,7 @@
         "tld": "mw",
         "capital": "Lilongwe",
         "letters": null,
-        "search": "malawi lilongwe mw black green red horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "malawi lilongwe mw black green red horisontal svart grønn rød eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Mexico",
@@ -1293,7 +1293,7 @@
         "tld": "mx",
         "capital": "Mexico City",
         "letters": null,
-        "search": "mexico city mx green red white symbol vertical central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "mexico city mx green red white eagle bird cactus symbol vertical grønn rød hvit ørn fugl kaktus vertikal central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Malaysia",
@@ -1301,7 +1301,7 @@
         "tld": "my",
         "capital": "Kuala Lumpur",
         "letters": null,
-        "search": "malaysia kuala lumpur my red dark blue white yellow horisontal south-eastern asia sørøst-asia"
+        "search": "malaysia kuala lumpur my red dark blue white yellow horisontal rød mørk blå hvit gul south-eastern asia sørøst-asia"
     },
     {
         "country": "Mozambique",
@@ -1309,7 +1309,7 @@
         "tld": "mz",
         "capital": "Maputo",
         "letters": null,
-        "search": "mozambique mosambik maputo mz black green red white yellow symbol horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "mozambique mosambik maputo mz black green red white yellow gun book rifle symbol star horisontal svart grønn rød hvit gul pistolbok riflesymbol stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Namibia",
@@ -1317,7 +1317,7 @@
         "tld": "na",
         "capital": "Windhoek",
         "letters": null,
-        "search": "namibia windhoek na blue green red white yellow diagonal southern africa sub-saharan sør-afrika sør for sahara afrika"
+        "search": "namibia windhoek na blue green red white yellow diagonal blå grønn rød hvit gul southern africa sub-saharan sør-afrika sør for sahara afrika"
     },
     {
         "country": "New Caledonia",
@@ -1325,7 +1325,7 @@
         "tld": "nc",
         "capital": "Nouméa",
         "letters": null,
-        "search": "new caledonia ny-caledonia nouméa nc blue white red vertical melanesia oceania"
+        "search": "new caledonia ny-caledonia nouméa nc blue white red vertical blå hvit rød vertikal melanesia oceania"
     },
     {
         "country": "Niger",
@@ -1333,7 +1333,7 @@
         "tld": "ne",
         "capital": "Niamey",
         "letters": null,
-        "search": "niger niamey ne orange green white horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "niger niamey ne orange green white circle horisontal oransje grønn hvit sirkel western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Norfolk Island",
@@ -1341,7 +1341,7 @@
         "tld": "nf",
         "capital": "Kingston",
         "letters": null,
-        "search": "norfolk island kingston nf green white symbol vertical oceania"
+        "search": "norfolk island kingston nf green white tree symbol vertical grønt hvitt tresymbol vertikalt oceania"
     },
     {
         "country": "Nigeria",
@@ -1349,7 +1349,7 @@
         "tld": "ng",
         "capital": "Abuja",
         "letters": null,
-        "search": "nigeria abuja ng green white vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "nigeria abuja ng green white vertical grønn hvit vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Nicaragua",
@@ -1357,7 +1357,7 @@
         "tld": "ni",
         "capital": "Managua",
         "letters": null,
-        "search": "nicaragua managua ni blue white symbol horisontal central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "nicaragua managua ni blue white symbol horisontal blå hvit horisontalt central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Netherlands",
@@ -1365,7 +1365,7 @@
         "tld": "nl",
         "capital": "Amsterdam",
         "letters": null,
-        "search": "netherlands nederland amsterdam nl red blue white horisontal western europe vest-europa europa"
+        "search": "netherlands nederland amsterdam nl red blue white horisontal rød blå hvit western europe vest-europa europa"
     },
     {
         "country": "Norway",
@@ -1373,7 +1373,7 @@
         "tld": "no",
         "capital": "Oslo",
         "letters": null,
-        "search": "norway norge oslo no red blue white cross northern europe nord-europa europa"
+        "search": "norway norge oslo no red blue white cross rødt blått hvitt kors northern europe nord-europa europa"
     },
     {
         "country": "Nepal",
@@ -1381,7 +1381,7 @@
         "tld": "np",
         "capital": "Kathmandu",
         "letters": null,
-        "search": "nepal kathmandu np crimson blue white southern asia sør-asia"
+        "search": "nepal kathmandu np crimson blue white star stjerne southern asia sør-asia"
     },
     {
         "country": "Nauru",
@@ -1389,7 +1389,7 @@
         "tld": "nr",
         "capital": "Yaren",
         "letters": null,
-        "search": "nauru yaren nr blue white yellow horisontal micronesia oceania mikronesia"
+        "search": "nauru yaren nr blue white yellow star horisontal blå hvit gul stjerne micronesia oceania mikronesia"
     },
     {
         "country": "Niue",
@@ -1397,7 +1397,7 @@
         "tld": "nu",
         "capital": "Alofi",
         "letters": null,
-        "search": "niue alofi nu gold unionjack polynesia oceania polynesia"
+        "search": "niue alofi nu gold unionjack star gull unionjack-stjerne polynesia oceania polynesia"
     },
     {
         "country": "New Zealand",
@@ -1405,7 +1405,7 @@
         "tld": "nz",
         "capital": "Wellington",
         "letters": null,
-        "search": "new zealand wellington nz white blue red unionjack star oceania"
+        "search": "new zealand wellington nz white blue red unionjack star hvit blå rød unionjackstjerne oceania"
     },
     {
         "country": "Oman",
@@ -1413,7 +1413,7 @@
         "tld": "om",
         "capital": "Muscat",
         "letters": null,
-        "search": "oman muscat om red green white horisontal vertical western asia vest-asia"
+        "search": "oman muscat om red green white sword knife horisontal vertical rød grønn hvit sverdkniv vertikal western asia vest-asia"
     },
     {
         "country": "Panama",
@@ -1421,7 +1421,7 @@
         "tld": "pa",
         "capital": "Panama City",
         "letters": null,
-        "search": "panama city pa blue red white star central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "panama city pa blue red white star blå rød hvit stjerne central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Peru",
@@ -1429,7 +1429,7 @@
         "tld": "pe",
         "capital": "Lima",
         "letters": null,
-        "search": "peru lima pe red white symbol vertical south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "peru lima pe red white leaf leaves symbol vertical rødt hvitt bladbladsymbol vertikalt south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "French Polynesia",
@@ -1437,7 +1437,7 @@
         "tld": "pf",
         "capital": "Papeete",
         "letters": null,
-        "search": "french polynesia fransk papeete pf red blue golden white symbol horisontal oceania polynesia"
+        "search": "french polynesia fransk papeete pf red blue golden white symbol horisontal rød blå gylden hvit horisontalt oceania polynesia"
     },
     {
         "country": "Papua New Guinea",
@@ -1445,7 +1445,7 @@
         "tld": "pg",
         "capital": "Port Moresby",
         "letters": null,
-        "search": "papua new guinea ny-guinea port moresby pg red black white yellow symbol star diagonal melanesia oceania"
+        "search": "papua new guinea ny-guinea port moresby pg red black white yellow bird symbol star diagonal rød svart hvit gul fuglesymbol stjernediagonal melanesia oceania"
     },
     {
         "country": "Philippines",
@@ -1453,7 +1453,7 @@
         "tld": "ph",
         "capital": "Manila",
         "letters": null,
-        "search": "philippines filippinene manila ph blue red white yellow horisontal south-eastern asia sørøst-asia"
+        "search": "philippines filippinene manila ph blue red white yellow star horisontal blå rød hvit gul stjerne south-eastern asia sørøst-asia"
     },
     {
         "country": "Pakistan",
@@ -1461,7 +1461,7 @@
         "tld": "pk",
         "capital": "Islamabad",
         "letters": null,
-        "search": "pakistan islamabad pk green white star southern asia sør-asia"
+        "search": "pakistan islamabad pk green white star grønn hvit stjerne southern asia sør-asia"
     },
     {
         "country": "Poland",
@@ -1469,7 +1469,7 @@
         "tld": "pl",
         "capital": "Warsaw",
         "letters": "Ł Ń Ż",
-        "search": "poland polen warsaw pl white red horisontal eastern europe øst-europa europa"
+        "search": "poland polen warsaw pl white red horisontal hvit rød eastern europe øst-europa europa"
     },
     {
         "country": "Saint Pierre and Miquelon",
@@ -1477,7 +1477,7 @@
         "tld": "pm",
         "capital": "St. Pierre",
         "letters": null,
-        "search": "saint pierre miquelon st pm blue white red vertical northern america north nord-amerika"
+        "search": "saint pierre miquelon st pm blue white red vertical blå hvit rød vertikal northern america north nord-amerika"
     },
     {
         "country": "Pitcairn Islands",
@@ -1485,7 +1485,7 @@
         "tld": "pn",
         "capital": "Adamstown",
         "letters": null,
-        "search": "pitcairn islands pitcairnøyene adamstown pn blue black brown green red white yellow unionjack symbol polynesia oceania polynesia"
+        "search": "pitcairn islands pitcairnøyene adamstown pn blue black brown green red white yellow unionjack symbol blå svart brun grønn rød hvit gul unionjack-symbol polynesia oceania polynesia"
     },
     {
         "country": "Puerto Rico",
@@ -1493,7 +1493,7 @@
         "tld": "pr",
         "capital": "San Juan",
         "letters": null,
-        "search": "puerto rico san juan pr blue white red star horisontal diagonal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "puerto rico san juan pr blue white red star horisontal diagonal blå hvit rød stjerne caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Palestine",
@@ -1501,7 +1501,7 @@
         "tld": "ps",
         "capital": "Jerusalem",
         "letters": null,
-        "search": "palestine palestina jerusalem ps black green red white diagonal western asia vest-asia"
+        "search": "palestine palestina jerusalem ps black green red white diagonal sort grønn rød hvit western asia vest-asia"
     },
     {
         "country": "Portugal",
@@ -1509,7 +1509,7 @@
         "tld": "pt",
         "capital": "Lisbon",
         "letters": null,
-        "search": "portugal lisbon pt red green white symbol vertical southern europe sør-europa europa"
+        "search": "portugal lisbon pt red green white symbol vertical rød grønn hvit vertikal southern europe sør-europa europa"
     },
     {
         "country": "Palau",
@@ -1517,7 +1517,7 @@
         "tld": "pw",
         "capital": "Ngerulmud",
         "letters": null,
-        "search": "palau ngerulmud pw yellow blue micronesia oceania mikronesia"
+        "search": "palau ngerulmud pw yellow blue circle gul blå sirkel micronesia oceania mikronesia"
     },
     {
         "country": "Paraguay",
@@ -1525,7 +1525,7 @@
         "tld": "py",
         "capital": "Asunción",
         "letters": null,
-        "search": "paraguay asunción py red blue white symbol horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "paraguay asunción py red blue white symbol horisontal rød blå hvit horisontalt south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Qatar",
@@ -1533,7 +1533,7 @@
         "tld": "qa",
         "capital": "Doha",
         "letters": null,
-        "search": "qatar doha qa maroon white horisontal western asia vest-asia"
+        "search": "qatar doha qa maroon white horisontal rødbrun hvit western asia vest-asia"
     },
     {
         "country": "Réunion Island",
@@ -1541,7 +1541,7 @@
         "tld": "re",
         "capital": "Saint-Denis",
         "letters": null,
-        "search": "réunion island øya saint-denis re blue white red vertical eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "réunion island øya saint-denis re blue white red vertical blå hvit rød vertikal eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Romania",
@@ -1549,7 +1549,7 @@
         "tld": "ro",
         "capital": "Bucharest",
         "letters": "Ă Â Î Ș Ț",
-        "search": "romania bucharest ro blue red yellow vertical eastern europe øst-europa europa"
+        "search": "romania bucharest ro blue red yellow vertical blå rød gul vertikal eastern europe øst-europa europa"
     },
     {
         "country": "Serbia",
@@ -1557,7 +1557,7 @@
         "tld": "rs",
         "capital": "Belgrade",
         "letters": "Ћ ћ",
-        "search": "serbia belgrade rs red blue white symbol horisontal southern europe sør-europa europa cyrillic"
+        "search": "serbia belgrade rs red blue white bird eagle crown symbol horisontal rød blå hvit fugleørn kronesymbol horisontalt southern europe sør-europa europa cyrillic"
     },
     {
         "country": "Russia",
@@ -1565,7 +1565,7 @@
         "tld": "ru",
         "capital": "Moscow",
         "letters": "Ё Й Щ Ъ Ы Э Ю Я",
-        "search": "russia russland moscow ru white blue red horisontal eastern europe øst-europa europa cyrillic"
+        "search": "russia russland moscow ru white blue red horisontal hvit blå rød eastern europe øst-europa europa cyrillic"
     },
     {
         "country": "Rwanda",
@@ -1573,7 +1573,7 @@
         "tld": "rw",
         "capital": "Kigali",
         "letters": null,
-        "search": "rwanda kigali rw sky blue green yellow horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "rwanda kigali rw sky blue green yellow sun horisontal himmelblå grønn gul sol eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Saudi Arabia",
@@ -1581,7 +1581,7 @@
         "tld": "sa",
         "capital": "Riyadh",
         "letters": null,
-        "search": "saudi arabia saudi-arabia riyadh sa green white symbol western asia vest-asia"
+        "search": "saudi arabia saudi-arabia riyadh sa green white sword symbol grønt hvitt sverdsymbol western asia vest-asia"
     },
     {
         "country": "Solomon Islands",
@@ -1589,7 +1589,7 @@
         "tld": "sb",
         "capital": "Honiara",
         "letters": null,
-        "search": "solomon islands salomonøyene honiara sb olive green blue yellow star diagonal melanesia oceania"
+        "search": "solomon islands salomonøyene honiara sb olive green blue yellow star diagonal oliven grønn blå gul stjerne melanesia oceania"
     },
     {
         "country": "Seychelles",
@@ -1597,7 +1597,7 @@
         "tld": "sc",
         "capital": "Victoria",
         "letters": null,
-        "search": "seychelles seychellene victoria sc blue green red white yellow diagonal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "seychelles seychellene victoria sc blue green red white yellow diagonal blå grønn rød hvit gul eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Sudan",
@@ -1605,7 +1605,7 @@
         "tld": "sd",
         "capital": "Khartoum",
         "letters": null,
-        "search": "sudan khartoum sd red black green white horisontal northern africa nord-afrika afrika"
+        "search": "sudan khartoum sd red black green white horisontal rød svart grønn hvit northern africa nord-afrika afrika"
     },
     {
         "country": "Sweden",
@@ -1613,7 +1613,7 @@
         "tld": "se",
         "capital": "Stockholm",
         "letters": null,
-        "search": "sweden sverige stockholm se blue gold cross northern europe nord-europa europa"
+        "search": "sweden sverige stockholm se blue gold cross blått gull kors northern europe nord-europa europa"
     },
     {
         "country": "Singapore",
@@ -1621,7 +1621,7 @@
         "tld": "sg",
         "capital": "Singapore",
         "letters": null,
-        "search": "singapore sg red white star horisontal south-eastern asia sørøst-asia"
+        "search": "singapore sg red white star horisontal rød hvit stjerne south-eastern asia sørøst-asia"
     },
     {
         "country": "Saint Helena, Ascension and Tristan da Cunha",
@@ -1629,7 +1629,7 @@
         "tld": "sh",
         "capital": "Jamestown",
         "letters": null,
-        "search": "saint helena ascension tristan da cunha jamestown sh blue white red unionjack cross western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "saint helena ascension tristan da cunha jamestown sh blue white red unionjack cross blå hvit rød kors western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Slovenia",
@@ -1637,7 +1637,7 @@
         "tld": "si",
         "capital": "Ljubljana",
         "letters": null,
-        "search": "slovenia ljubljana si black blue gold green red white symbol horisontal southern europe sør-europa europa"
+        "search": "slovenia ljubljana si black blue gold green red white symbol horisontal sort blå gull grønn rød hvit horisontalt southern europe sør-europa europa"
     },
     {
         "country": "Svalbard and Jan Mayen Islands",
@@ -1645,7 +1645,7 @@
         "tld": "sj",
         "capital": "Longyearbyen",
         "letters": null,
-        "search": "svalbard jan mayen islands longyearbyen sj blue white red cross northern europe nord-europa europa"
+        "search": "svalbard jan mayen islands longyearbyen sj blue white red cross blått hvitt rødt kors northern europe nord-europa europa"
     },
     {
         "country": "Slovakia",
@@ -1653,7 +1653,7 @@
         "tld": "sk",
         "capital": "Bratislava",
         "letters": "Ĺ Ľ Ô Ŕ",
-        "search": "slovakia bratislava sk white blue red horisontal eastern europe øst-europa europa"
+        "search": "slovakia bratislava sk white blue red horisontal hvit blå rød eastern europe øst-europa europa"
     },
     {
         "country": "Sierra Leone",
@@ -1661,7 +1661,7 @@
         "tld": "sl",
         "capital": "Freetown",
         "letters": null,
-        "search": "sierra leone freetown sl green blue white horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "sierra leone freetown sl green blue white horisontal grønn blå hvit western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "San Marino",
@@ -1669,7 +1669,7 @@
         "tld": "sm",
         "capital": "San Marino",
         "letters": null,
-        "search": "san marino sm white light blue horisontal southern europe sør-europa europa"
+        "search": "san marino sm white light blue towers leaf leaves horisontal hvit lyseblå tårner bladblader horisontale southern europe sør-europa europa"
     },
     {
         "country": "Senegal",
@@ -1677,7 +1677,7 @@
         "tld": "sn",
         "capital": "Dakar",
         "letters": null,
-        "search": "senegal dakar sn green red yellow star vertical western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "senegal dakar sn green red yellow star vertical grønn rød gul stjerne vertikal western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Somalia",
@@ -1685,7 +1685,7 @@
         "tld": "so",
         "capital": "Mogadishu",
         "letters": null,
-        "search": "somalia mogadishu so blue white star eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "somalia mogadishu so blue white star blå hvit stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Suriname",
@@ -1693,7 +1693,7 @@
         "tld": "sr",
         "capital": "Paramaribo",
         "letters": null,
-        "search": "suriname surinam paramaribo sr gold green red white star horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "suriname surinam paramaribo sr gold green red white star horisontal gull grønn rød hvit stjerne south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "South Sudan",
@@ -1701,7 +1701,7 @@
         "tld": "ss",
         "capital": "Juba",
         "letters": null,
-        "search": "south sudan sør-sudan juba ss black blue green red white yellow star horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "south sudan sør-sudan juba ss black blue green red white yellow star horisontal svart blå grønn rød hvit gul stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "São Tomé and Príncipe",
@@ -1709,7 +1709,7 @@
         "tld": "st",
         "capital": "São Tomé",
         "letters": null,
-        "search": "são tomé príncipe st red yellow green black star horisontal middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "são tomé príncipe st red yellow green black star horisontal rød gul grønn svart stjerne middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "El Salvador",
@@ -1717,7 +1717,7 @@
         "tld": "sv",
         "capital": "San Salvador",
         "letters": null,
-        "search": "el salvador san sv blue gold white symbol horisontal central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
+        "search": "el salvador san sv blue gold white symbol horisontal blått gull hvitt horisontalt central america latin caribbean north sentral-amerika latin-amerika karibia vestindia nord-amerika"
     },
     {
         "country": "Sint Maarten",
@@ -1725,7 +1725,7 @@
         "tld": "sx",
         "capital": "Philipsburg",
         "letters": null,
-        "search": "sint maarten philipsburg sx blue white red symbol horisontal diagonal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "sint maarten philipsburg sx blue white red symbol horisontal diagonal blå hvit rød caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Syria",
@@ -1733,7 +1733,7 @@
         "tld": "sy",
         "capital": "Damascus",
         "letters": null,
-        "search": "syria damascus sy red white green black star horisontal western asia vest-asia"
+        "search": "syria damascus sy red white green black star horisontal rød hvit grønn svart stjerne western asia vest-asia"
     },
     {
         "country": "Swaziland",
@@ -1741,7 +1741,7 @@
         "tld": "sz",
         "capital": "Mbabane",
         "letters": null,
-        "search": "swaziland mbabane eswatini sz blue yellow red black white symbol horisontal southern africa sub-saharan sør-afrika sør for sahara afrika"
+        "search": "swaziland mbabane eswatini sz blue yellow red black white symbol horisontal blå gul rød svart hvit horisontalt southern africa sub-saharan sør-afrika sør for sahara afrika"
     },
     {
         "country": "Turks and Caicos Islands",
@@ -1749,7 +1749,7 @@
         "tld": "tc",
         "capital": "Cockburn Town",
         "letters": null,
-        "search": "turks caicos islands turks- caicosøyene cockburn town tc blue white red unionjack symbol caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "turks caicos islands turks- caicosøyene cockburn town tc blue white red unionjack symbol blå hvit rød caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Chad",
@@ -1757,7 +1757,7 @@
         "tld": "td",
         "capital": "N'Djamena",
         "letters": null,
-        "search": "chad tsjad n'djamena td blue red yellow vertical middle africa sub-saharan midt-afrika sør for sahara afrika"
+        "search": "chad tsjad n'djamena td blue red yellow vertical blå rød gul vertikal middle africa sub-saharan midt-afrika sør for sahara afrika"
     },
     {
         "country": "French Southern Territories",
@@ -1765,7 +1765,7 @@
         "tld": null,
         "capital": null,
         "letters": null,
-        "search": "french southern territories franske sørlige territorier tf blue white red star eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "french southern territories franske sørlige territorier tf blue white red star blå hvit rød stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Togo",
@@ -1773,7 +1773,7 @@
         "tld": "tg",
         "capital": "Lomé",
         "letters": null,
-        "search": "togo lomé tg green red white yellow star horisontal western africa sub-saharan vest-afrika sør for sahara afrika"
+        "search": "togo lomé tg green red white yellow star horisontal grønn rød hvit gul stjerne western africa sub-saharan vest-afrika sør for sahara afrika"
     },
     {
         "country": "Thailand",
@@ -1781,7 +1781,7 @@
         "tld": "th",
         "capital": "Bangkok",
         "letters": "สวัสดี ไทย",
-        "search": "thailand bangkok th red blue white horisontal south-eastern asia sørøst-asia"
+        "search": "thailand bangkok th red blue white horisontal rød blå hvit south-eastern asia sørøst-asia"
     },
     {
         "country": "Tajikistan",
@@ -1789,7 +1789,7 @@
         "tld": "tj",
         "capital": "Dushanbe",
         "letters": null,
-        "search": "tajikistan tadsjikistan dushanbe tj golden green red white symbol star horisontal central asia sentral-asia cyrillic"
+        "search": "tajikistan tadsjikistan dushanbe tj golden green red white symbol star horisontal gylden grønn rød hvit stjerne central asia sentral-asia cyrillic"
     },
     {
         "country": "Tokelau",
@@ -1797,7 +1797,7 @@
         "tld": "tk",
         "capital": null,
         "letters": null,
-        "search": "tokelau tk yellow blue white star polynesia oceania polynesia"
+        "search": "tokelau tk yellow blue white sail star gul blå hvit seilstjerne polynesia oceania polynesia"
     },
     {
         "country": "Timor-Leste",
@@ -1805,7 +1805,7 @@
         "tld": "tl",
         "capital": "Dili",
         "letters": null,
-        "search": "timor-leste øst-timor dili tl black yellow red white star south-eastern asia sørøst-asia"
+        "search": "timor-leste øst-timor dili tl black yellow red white star svart gul rød hvit stjerne south-eastern asia sørøst-asia"
     },
     {
         "country": "Turkmenistan",
@@ -1813,7 +1813,7 @@
         "tld": "tm",
         "capital": "Ashgabat",
         "letters": null,
-        "search": "turkmenistan ashgabat tm green white symbol star central asia sentral-asia"
+        "search": "turkmenistan ashgabat tm green white symbol star grønn hvit stjerne central asia sentral-asia"
     },
     {
         "country": "Tunisia",
@@ -1821,7 +1821,7 @@
         "tld": "tn",
         "capital": "Tunis",
         "letters": null,
-        "search": "tunisia tunis tn red white star northern africa nord-afrika afrika"
+        "search": "tunisia tunis tn red white star rød hvit stjerne northern africa nord-afrika afrika"
     },
     {
         "country": "Tonga",
@@ -1829,7 +1829,7 @@
         "tld": "to",
         "capital": "Nukuʻalofa",
         "letters": null,
-        "search": "tonga nukuʻalofa to red white polynesia oceania polynesia"
+        "search": "tonga nukuʻalofa to red white cross rødt hvitt kors polynesia oceania polynesia"
     },
     {
         "country": "Turkey",
@@ -1837,7 +1837,7 @@
         "tld": "tr",
         "capital": "Ankara",
         "letters": "İ Ş ı ğ",
-        "search": "turkey kalkun ankara tr red white star western asia vest-asia"
+        "search": "turkey kalkun ankara tr red white star rød hvit stjerne western asia vest-asia"
     },
     {
         "country": "Trinidad and Tobago",
@@ -1845,7 +1845,7 @@
         "tld": "tt",
         "capital": "Port of Spain",
         "letters": null,
-        "search": "trinidad tobago port spain tt red black white diagonal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "trinidad tobago port spain tt red black white diagonal rød svart hvit caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Tuvalu",
@@ -1853,7 +1853,7 @@
         "tld": "tv",
         "capital": "Funafuti",
         "letters": null,
-        "search": "tuvalu funafuti tv dark blue gold red sky white unionjack star polynesia oceania polynesia"
+        "search": "tuvalu funafuti tv dark blue gold red sky white unionjack star mørkeblått gull rød himmelblå hvit unionjack-stjerne polynesia oceania polynesia"
     },
     {
         "country": "Taiwan",
@@ -1861,7 +1861,7 @@
         "tld": "tw",
         "capital": "Taipei",
         "letters": "台灣 你好",
-        "search": "taiwan taipei tw blue white red eastern asia øst-asia"
+        "search": "taiwan taipei tw sun blue white red star solblå hvit rød stjerne eastern asia øst-asia"
     },
     {
         "country": "Tanzania",
@@ -1869,7 +1869,7 @@
         "tld": "tz",
         "capital": "Dodoma",
         "letters": null,
-        "search": "tanzania dodoma tz green yellow black blue diagonal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "tanzania dodoma tz green yellow black blue diagonal grønn gul svart blå eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Ukraine",
@@ -1877,7 +1877,7 @@
         "tld": "ua",
         "capital": "Kyiv",
         "letters": "Є Ґ Ї І",
-        "search": "ukraine ukraina kyiv ua blue gold horisontal eastern europe øst-europa europa cyrillic"
+        "search": "ukraine ukraina kyiv ua blue gold horisontal blått gull horisontalt eastern europe øst-europa europa cyrillic"
     },
     {
         "country": "Uganda",
@@ -1885,7 +1885,7 @@
         "tld": "ug",
         "capital": "Kampala",
         "letters": null,
-        "search": "uganda kampala ug blue red white yellow symbol horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "uganda kampala ug blue red white yellow bird symbol horisontal blå rød hvit gul fugl horisontalt eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "US Minor Outlying Islands",
@@ -1893,7 +1893,7 @@
         "tld": "us",
         "capital": null,
         "letters": null,
-        "search": "us minor outlying islands usas mindre ytre øyer um blue white red star horisontal micronesia oceania mikronesia"
+        "search": "us minor outlying islands usas mindre ytre øyer um blue white red star horisontal blå hvit rød stjerne micronesia oceania mikronesia"
     },
     {
         "country": "United States",
@@ -1901,7 +1901,7 @@
         "tld": "us",
         "capital": "Washington",
         "letters": null,
-        "search": "united states usa washington usa america us red blue white star horisontal northern north nord-amerika"
+        "search": "united states usa washington usa america us red blue white star horisontal rød blå hvit stjerne northern north nord-amerika"
     },
     {
         "country": "Uruguay",
@@ -1909,7 +1909,7 @@
         "tld": "uy",
         "capital": "Montevideo",
         "letters": null,
-        "search": "uruguay montevideo uy blue white symbol horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "uruguay montevideo uy blue white sun symbol horisontal blå hvit solsymbol horisontalt south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "Uzbekistan",
@@ -1917,7 +1917,7 @@
         "tld": "uz",
         "capital": "Tashkent",
         "letters": null,
-        "search": "uzbekistan usbekistan tashkent uz blue green red white star horisontal central asia sentral-asia cyrillic"
+        "search": "uzbekistan usbekistan tashkent uz blue green red white star horisontal blå grønn rød hvit stjerne central asia sentral-asia cyrillic"
     },
     {
         "country": "Vatican City",
@@ -1925,7 +1925,7 @@
         "tld": "va",
         "capital": "Vatican City",
         "letters": null,
-        "search": "vatican city vatikanstaten holy see va yellow white symbol vertical southern europe sør-europa europa"
+        "search": "vatican city vatikanstaten holy see va yellow white key keys symbol vertical gul hvit nøkkel nøkler vertikal southern europe sør-europa europa"
     },
     {
         "country": "Saint Vincent and the Grenadines",
@@ -1933,7 +1933,7 @@
         "tld": "vc",
         "capital": "Kingstown",
         "letters": null,
-        "search": "saint vincent grenadines grenadinene kingstown vc blue green yellow vertical caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "saint vincent grenadines grenadinene kingstown vc blue green yellow vertical blå grønn gul vertikal caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Venezuela",
@@ -1941,7 +1941,7 @@
         "tld": "ve",
         "capital": "Caracas",
         "letters": null,
-        "search": "venezuela caracas bolivarian ve yellow blue red star horisontal south america latin caribbean sør-amerika latin-amerika karibia vestindia"
+        "search": "venezuela caracas bolivarian ve yellow blue red star horisontal gul blå rød stjerne south america latin caribbean sør-amerika latin-amerika karibia vestindia"
     },
     {
         "country": "British Virgin Islands",
@@ -1949,7 +1949,7 @@
         "tld": "vg",
         "capital": "Road Town",
         "letters": null,
-        "search": "british virgin islands de britiske jomfruøyene road town vg blue white red green yellow unionjack symbol caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "british virgin islands de britiske jomfruøyene road town vg blue white red green yellow unionjack symbol blå hvit rød grønn gul caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "US Virgin Islands",
@@ -1957,7 +1957,7 @@
         "tld": "vi",
         "capital": "Charlotte Amalie",
         "letters": null,
-        "search": "us virgin islands de amerikanske jomfruøyene charlotte amalie vi white yellow blue symbol caribbean latin america north karibia vestindia latin-amerika nord-amerika"
+        "search": "us virgin islands de amerikanske jomfruøyene charlotte amalie vi white yellow blue bird eagle symbol hvit gul blå fugleørn caribbean latin america north karibia vestindia latin-amerika nord-amerika"
     },
     {
         "country": "Vietnam",
@@ -1965,7 +1965,7 @@
         "tld": "vn",
         "capital": "Hanoi",
         "letters": null,
-        "search": "vietnam hanoi vn red yellow star south-eastern asia sørøst-asia"
+        "search": "vietnam hanoi vn red yellow star rød gul stjerne south-eastern asia sørøst-asia"
     },
     {
         "country": "Vanuatu",
@@ -1973,7 +1973,7 @@
         "tld": "vu",
         "capital": "Port Vila",
         "letters": null,
-        "search": "vanuatu port vila vu red black green yellow horisontal diagonal melanesia oceania"
+        "search": "vanuatu port vila vu red black green yellow horisontal diagonal rød svart grønn gul melanesia oceania"
     },
     {
         "country": "Wallis and Futuna Islands",
@@ -1981,7 +1981,7 @@
         "tld": "wf",
         "capital": "Mata-Utu",
         "letters": null,
-        "search": "wallis futuna islands futuna-øyene mata-utu wf blue white red polynesia oceania polynesia"
+        "search": "wallis futuna islands futuna-øyene mata-utu wf blue white red blå hvit rød polynesia oceania polynesia"
     },
     {
         "country": "Samoa",
@@ -1989,7 +1989,7 @@
         "tld": "ws",
         "capital": "Apia",
         "letters": null,
-        "search": "samoa apia ws red blue white star polynesia oceania polynesia"
+        "search": "samoa apia ws red blue white star rød blå hvit stjerne polynesia oceania polynesia"
     },
     {
         "country": "Kosovo",
@@ -1997,7 +1997,7 @@
         "tld": "xk",
         "capital": "Pristina",
         "letters": null,
-        "search": "kosovo pristina xk blue gold white star southern europe sør-europa europa"
+        "search": "kosovo pristina xk blue gold white star blå gull hvit stjerne southern europe sør-europa europa"
     },
     {
         "country": "Yemen",
@@ -2005,7 +2005,7 @@
         "tld": "ye",
         "capital": "Sanaá",
         "letters": null,
-        "search": "yemen jemen sanaá ye red black white horisontal western asia vest-asia"
+        "search": "yemen jemen sanaá ye red black white horisontal rød svart hvit western asia vest-asia"
     },
     {
         "country": "Mayotte",
@@ -2013,7 +2013,7 @@
         "tld": "yt",
         "capital": "Mamoudzou",
         "letters": null,
-        "search": "mayotte mamoudzou yt blue white red vertical eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "mayotte mamoudzou yt blue white red vertical blå hvit rød vertikal eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "South Africa",
@@ -2021,7 +2021,7 @@
         "tld": "za",
         "capital": "Pretoria",
         "letters": null,
-        "search": "south africa sør-afrika pretoria za red black blue gold green white horisontal diagonal southern sub-saharan sør for sahara afrika"
+        "search": "south africa sør-afrika pretoria za red black blue gold green white horisontal diagonal rød svart blå gull grønn hvit southern sub-saharan sør for sahara afrika"
     },
     {
         "country": "Zambia",
@@ -2029,7 +2029,7 @@
         "tld": "zm",
         "capital": "Lusaka",
         "letters": null,
-        "search": "zambia lusaka zm green black orange red symbol vertical eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "zambia lusaka zm green black orange red bird eagle symbol vertical grønn svart oransje rød fugleørn vertikal eastern africa sub-saharan øst-afrika sør for sahara afrika"
     },
     {
         "country": "Zimbabwe",
@@ -2037,6 +2037,6 @@
         "tld": "zw",
         "capital": "Harare",
         "letters": null,
-        "search": "zimbabwe harare zw green black red white yellow symbol star horisontal eastern africa sub-saharan øst-afrika sør for sahara afrika"
+        "search": "zimbabwe harare zw green black red white yellow bird symbol star horisontal grønn svart rød hvit gul fuglesymbol stjerne eastern africa sub-saharan øst-afrika sør for sahara afrika"
     }
 ]
