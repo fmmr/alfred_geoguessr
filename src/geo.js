@@ -50,6 +50,7 @@ content.forEach(country => { // For each item in your list
 	let uid = country['code'];
 	let tld = country['tld'];
 	let search = country['search'];
+	let letters = country['letters'];
 	let cap = country['capital'] ? country['capital'] : "";
 	let lc = uid;
 
@@ -58,17 +59,33 @@ content.forEach(country => { // For each item in your list
 	let file = FLAG_DIR + lc + '.png';
 	let match = country['search'];
 
-
-	if (MODE === "TLD") {
-		var element = {
-			'uid': tld,
-			'autocomplete': tld,
-			'title': name,
-			'subtitle': tld,
-			'match': tld,
-			'icon': {
-				'path': icon
+	if (MODE === "LETTER") {
+		if (letters) {
+			var element = {
+				'uid': uid,
+				'title': letters,
+				'subtitle': name,
+				'match': search + ' ' + letters,
+				'icon': {
+					'path': icon
+				}
 			}
+			script_filter_items.push(element)
+		}
+	}
+	else if (MODE === "TLD") {
+		if (tld) {
+			var element = {
+				'uid': uid,
+				'autocomplete': tld,
+				'title': name,
+				'subtitle': tld,
+				'match': tld,
+				'icon': {
+					'path': icon
+				}
+			}
+			script_filter_items.push(element)
 		}
 	} else {
 		var element = {
@@ -92,9 +109,9 @@ content.forEach(country => { // For each item in your list
 				}
 			}
 		}
+		script_filter_items.push(element)
 	}
 
-	script_filter_items.push(element)
 });
 
 JSON.stringify({
