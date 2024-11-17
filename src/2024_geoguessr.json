@@ -21,7 +21,7 @@
         "tld": "af",
         "capital": "Kabul",
         "letters": null,
-        "search": "afghanistan kabul af black green red white symbol vertical svart grønn rød hvit vertikal southern asia sør-asia"
+        "search": "afghanistan kabul af black green red white symbol vertical svart grønn rød hvit vertikalt southern asia sør-asia"
     },
     {
         "country": "Antigua and Barbuda",
@@ -261,7 +261,7 @@
         "tld": "bt",
         "capital": "Thimphu",
         "letters": null,
-        "search": "bhutan thimphu bt fulvous gold white dragon symbol diagonal hvit drage southern asia sør-asia"
+        "search": "bhutan thimphu bt fulvous gold white dragon symbol diagonal hvit dragesymbol southern asia sør-asia"
     },
     {
         "country": "Bouvet Island",
@@ -381,7 +381,7 @@
         "tld": "cn",
         "capital": "Beijing",
         "letters": null,
-        "search": "china kina beijing cn red gold star rødt gull stjerne eastern asia øst-asia"
+        "search": "china kina beijing cn red gold star rødt gull stjerne eastern asia øst-asia sign"
     },
     {
         "country": "Colombia",
@@ -949,7 +949,7 @@
         "tld": "jp",
         "capital": "Tokyo",
         "letters": "こんにちは 日本",
-        "search": "japan tokyo jp red white rød hvit eastern asia øst-asia"
+        "search": "japan tokyo jp red white rød hvit eastern asia øst-asia sign"
     },
     {
         "country": "Kenya",
@@ -1149,7 +1149,7 @@
         "tld": "md",
         "capital": "Chisinau",
         "letters": null,
-        "search": "moldova chisinau md blue gold red yellow eagle septer bull symbol vertical blå gull rød gul ørn oksesymbol vertikal eastern europe øst-europa europa"
+        "search": "moldova chisinau md blue gold red yellow eagle septer bull symbol vertical blått gull rød gul ørn oksesymbol vertikal eastern europe øst-europa europa"
     },
     {
         "country": "Montenegro",
@@ -1341,7 +1341,7 @@
         "tld": "nf",
         "capital": "Kingston",
         "letters": null,
-        "search": "norfolk island kingston nf green white tree symbol vertical grønt hvitt tresymbol vertikalt oceania"
+        "search": "norfolk island norfolkøya kingston nf green white tree symbol vertical grønt hvitt tresymbol vertikalt oceania"
     },
     {
         "country": "Nigeria",
@@ -1445,7 +1445,7 @@
         "tld": "pg",
         "capital": "Port Moresby",
         "letters": null,
-        "search": "papua new guinea ny-guinea port moresby pg red black white yellow bird symbol star diagonal rød svart hvit gul fuglesymbol stjernediagonal melanesia oceania"
+        "search": "papua new guinea ny port moresby pg red black white yellow bird symbol star diagonal rød svart hvit gul fuglesymbol stjernediagonal melanesia oceania"
     },
     {
         "country": "Philippines",
@@ -1501,7 +1501,7 @@
         "tld": "ps",
         "capital": "Jerusalem",
         "letters": null,
-        "search": "palestine palestina jerusalem ps black green red white diagonal sort grønn rød hvit western asia vest-asia"
+        "search": "palestine palestina jerusalem ps black green red white diagonal svart grønn rød hvit western asia vest-asia"
     },
     {
         "country": "Portugal",
@@ -1589,7 +1589,7 @@
         "tld": "sb",
         "capital": "Honiara",
         "letters": null,
-        "search": "solomon islands salomonøyene honiara sb olive green blue yellow star diagonal oliven grønn blå gul stjerne melanesia oceania"
+        "search": "solomon islands salomonøyene honiara sb olive green blue yellow star diagonal olivengrønn blå gul stjernediagonal melanesia oceania"
     },
     {
         "country": "Seychelles",
@@ -1637,7 +1637,7 @@
         "tld": "si",
         "capital": "Ljubljana",
         "letters": null,
-        "search": "slovenia ljubljana si black blue gold green red white symbol horisontal sort blå gull grønn rød hvit horisontalt southern europe sør-europa europa"
+        "search": "slovenia ljubljana si black blue gold green red white symbol horisontal svart blå gull grønn rød hvit horisontalt southern europe sør-europa europa"
     },
     {
         "country": "Svalbard and Jan Mayen Islands",
@@ -1645,7 +1645,7 @@
         "tld": "sj",
         "capital": "Longyearbyen",
         "letters": null,
-        "search": "svalbard jan mayen islands longyearbyen sj blue white red cross blått hvitt rødt kors northern europe nord-europa europa"
+        "search": "svalbard jan mayen islands mayen-øyene longyearbyen sj blue white red cross blått hvitt rødt kors northern europe nord-europa europa"
     },
     {
         "country": "Slovakia",
@@ -1861,7 +1861,7 @@
         "tld": "tw",
         "capital": "Taipei",
         "letters": "台灣 你好",
-        "search": "taiwan taipei tw sun blue white red star solblå hvit rød stjerne eastern asia øst-asia"
+        "search": "taiwan taipei tw sun blue white red star solblå hvit rød stjerne eastern asia øst-asia sign"
     },
     {
         "country": "Tanzania",
@@ -1893,7 +1893,7 @@
         "tld": "us",
         "capital": null,
         "letters": null,
-        "search": "us minor outlying islands usas mindre ytre øyer um blue white red star horisontal blå hvit rød stjerne micronesia oceania mikronesia"
+        "search": "us minor outlying islands amerikanske mindre ytre øyer um blue white red star horisontal blå hvit rød stjerne micronesia oceania mikronesia"
     },
     {
         "country": "United States",
