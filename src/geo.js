@@ -72,8 +72,7 @@ content.forEach(country => { // For each item in your list
 			}
 			script_filter_items.push(element)
 		}
-	}
-	else if (MODE === "TLD") {
+	} else if (MODE === "TLD") {
 		if (tld) {
 			var element = {
 				'uid': uid,
@@ -87,6 +86,21 @@ content.forEach(country => { // For each item in your list
 			}
 			script_filter_items.push(element)
 		}
+	} else if (MODE === "COUNTRY") {
+		let lc_name = name.toLowerCase();
+
+		var element = {
+			'uid': uid,
+			'type': 'file:skipcheck',
+			'autocomplete': name,
+			'title': name,
+			'match': name,
+			'arg': lc_name,
+			'icon': {
+				'path': icon
+			}
+		}
+		script_filter_items.push(element)
 	} else {
 		var element = {
 			'uid': uid,

@@ -30,6 +30,16 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>61A46DFC-910D-4453-BA50-D3779E5AC2EF</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>geomastr</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>9985B1A3-9D22-427C-B2C9-06C3CD076204</key>
 		<array>
@@ -89,6 +99,29 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F71634BA-3A77-474E-A01A-EB8119AFCF2B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>66B4BFBE-3CD5-4847-A1D8-2DEA49652B46</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>GEOMASTR</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>BB3EDCAD-C28F-4C40-863F-5F7E8B87E427</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string>PLONKIT</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -159,7 +192,7 @@ export BASE=`pwd`
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>keyword</key>
 				<string>geo</string>
 				<key>subtext</key>
@@ -167,7 +200,7 @@ export BASE=`pwd`
 				<key>text</key>
 				<string>Open GeoGuessr</string>
 				<key>withspace</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
@@ -321,6 +354,27 @@ export BASE=`pwd`
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<true/>
+				<key>skipvarencode</key>
+				<true/>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://geomastr.com/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>61A46DFC-910D-4453-BA50-D3779E5AC2EF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>paths</key>
 				<array>
 					<string>~/projects/alfred/geoguessr/src/files/cyrilic.webp</string>
@@ -356,6 +410,27 @@ export BASE=`pwd`
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>9985B1A3-9D22-427C-B2C9-06C3CD076204</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<true/>
+				<key>skipvarencode</key>
+				<true/>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://geomastr.com/country/{query}/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>66B4BFBE-3CD5-4847-A1D8-2DEA49652B46</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -413,6 +488,78 @@ export BASE=`pwd`
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<true/>
+				<key>skipvarencode</key>
+				<true/>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://www.plonkit.net/{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>BB3EDCAD-C28F-4C40-863F-5F7E8B87E427</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>pl</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>export MODE=COUNTRY
+export BASE=`pwd`
+./geo.js</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Plonk it</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>F71634BA-3A77-474E-A01A-EB8119AFCF2B</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
@@ -443,7 +590,7 @@ export BASE=`pwd`
 				<key>spaces</key>
 				<string>+</string>
 				<key>url</key>
-				<string>https://www.google.no/maps/place/{query}</string>
+				<string>https://www.google.no/maps/search/{query}</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
@@ -501,6 +648,20 @@ source data example:
 			<key>ypos</key>
 			<real>195</real>
 		</dict>
+		<key>61A46DFC-910D-4453-BA50-D3779E5AC2EF</key>
+		<dict>
+			<key>xpos</key>
+			<real>880</real>
+			<key>ypos</key>
+			<real>430</real>
+		</dict>
+		<key>66B4BFBE-3CD5-4847-A1D8-2DEA49652B46</key>
+		<dict>
+			<key>xpos</key>
+			<real>920</real>
+			<key>ypos</key>
+			<real>610</real>
+		</dict>
 		<key>7B6F75D4-2611-48BA-814D-A777AEA675CF</key>
 		<dict>
 			<key>xpos</key>
@@ -536,6 +697,13 @@ source data example:
 			<key>ypos</key>
 			<real>195</real>
 		</dict>
+		<key>BB3EDCAD-C28F-4C40-863F-5F7E8B87E427</key>
+		<dict>
+			<key>xpos</key>
+			<real>920</real>
+			<key>ypos</key>
+			<real>730</real>
+		</dict>
 		<key>C5B0E67F-80EB-4ABD-A391-B96A2C72D1D7</key>
 		<dict>
 			<key>xpos</key>
@@ -563,6 +731,13 @@ source data example:
 			<real>465</real>
 			<key>ypos</key>
 			<real>415</real>
+		</dict>
+		<key>F71634BA-3A77-474E-A01A-EB8119AFCF2B</key>
+		<dict>
+			<key>xpos</key>
+			<real>670</real>
+			<key>ypos</key>
+			<real>730</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
